@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:ANET NASDAQ:CSCO NASDAQ:AVGO NASDAQ:NVDA
 !! Description
 Compute-infrastructure component used to assemble and operate AI clusters.
 
-!! Example tickers / companies
+!! Tickers / companies
 ANET, CSCO, AVGO, NVDA
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

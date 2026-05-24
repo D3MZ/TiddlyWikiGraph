@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:MU
 !! Description
 Compute-infrastructure component used to assemble and operate AI clusters.
 
-!! Example tickers / companies
+!! Tickers / companies
 MU, Samsung, SK Hynix
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

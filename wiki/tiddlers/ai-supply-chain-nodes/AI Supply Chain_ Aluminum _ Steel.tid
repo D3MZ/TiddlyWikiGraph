@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:AA NYSE:NUE NASDAQ:STLD NYSE:X
 !! Description
 Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
 
-!! Example tickers / companies
+!! Tickers / companies
 AA, NUE, STLD, X
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

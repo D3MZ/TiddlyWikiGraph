@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:EQIX NYSE:DLR NYSE:VRT NYSE:ETN NYSE:DELL
 !! Description
 Physical facilities that house AI compute clusters and connect them to power, cooling, and networks.
 
-!! Example tickers / companies
+!! Tickers / companies
 EQIX, DLR, VRT, ETN, DELL
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

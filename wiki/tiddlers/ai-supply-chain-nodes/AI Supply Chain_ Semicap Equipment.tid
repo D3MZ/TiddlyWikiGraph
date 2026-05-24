@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:AMAT NASDAQ:LRCX NASDAQ:KLAC NASDAQ:ASML
 !! Description
 Semiconductor supply-chain component needed to manufacture AI chips and memory.
 
-!! Example tickers / companies
+!! Tickers / companies
 AMAT, LRCX, KLAC, ASML, TEL
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

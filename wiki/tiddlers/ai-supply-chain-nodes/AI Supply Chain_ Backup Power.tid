@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:CAT NYSE:CMI NYSE:ETN NASDAQ:TSLA
 !! Description
 Facility-level dependency for building and operating AI data centers.
 
-!! Example tickers / companies
+!! Tickers / companies
 CAT, CMI, ETN, TSLA
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

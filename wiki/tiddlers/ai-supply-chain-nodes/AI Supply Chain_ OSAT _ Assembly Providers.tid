@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:AMKR
 !! Description
 Part of the AI supply-chain graph connected to osat / assembly providers.
 
-!! Example tickers / companies
+!! Tickers / companies
 AMKR, ASE
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

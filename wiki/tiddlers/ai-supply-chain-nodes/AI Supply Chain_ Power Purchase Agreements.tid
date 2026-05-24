@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:NEE NYSE:BEP NYSE:CWEN NYSE:AES
 !! Description
 Energy-system component that determines whether AI infrastructure can be powered at scale.
 
-!! Example tickers / companies
+!! Tickers / companies
 NEE, BEP, CWEN, AES
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:MDB NYSE:ESTC NYSE:SNOW NYSE:ORCL
 !! Description
 Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
 
-!! Example tickers / companies
+!! Tickers / companies
 MDB, ESTC, SNOW, ORCL
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

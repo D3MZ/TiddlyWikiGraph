@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:ECL NYSE:XYL NYSE:AWK
 !! Description
 Facility-level dependency for building and operating AI data centers.
 
-!! Example tickers / companies
+!! Tickers / companies
 ECL, XYL, AWK
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

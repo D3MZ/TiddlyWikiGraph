@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:NVDA NASDAQ:AMD NASDAQ:GOOGL NASDAQ:MSFT NASDAQ:AMZN
 !! Description
 The compute- and data-intensive process of creating or improving models.
 
-!! Example tickers / companies
+!! Tickers / companies
 NVDA, AMD, GOOGL, MSFT, AMZN, META
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

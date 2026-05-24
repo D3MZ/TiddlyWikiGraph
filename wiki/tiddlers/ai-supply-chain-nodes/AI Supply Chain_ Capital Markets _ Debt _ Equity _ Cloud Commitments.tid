@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:JPM NYSE:GS NYSE:MS NYSE:BX NYSE:KKR NYSE:BLK
 !! Description
 Financing and cloud purchase commitments that fund data centers, chips, fabs, and power.
 
-!! Example tickers / companies
+!! Tickers / companies
 JPM, GS, MS, BX, KKR, BLK
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

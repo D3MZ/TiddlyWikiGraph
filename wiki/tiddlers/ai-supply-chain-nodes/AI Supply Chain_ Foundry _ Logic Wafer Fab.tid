@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:TSM NASDAQ:INTC
 !! Description
 Advanced logic fabs that manufacture many AI chips for fabless designers.
 
-!! Example tickers / companies
+!! Tickers / companies
 TSM, INTC, Samsung
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

@@ -8,10 +8,9 @@ tickers:
 !! Description
 Energy-system component that determines whether AI infrastructure can be powered at scale.
 
-!! Example tickers / companies
+!! Tickers / companies
 N/A
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 !! Upstream inputs
 None

@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:TSM NASDAQ:AMKR NASDAQ:INTC
 !! Description
 Packaging capacity that connects logic dies and HBM at very high bandwidth.
 
-!! Example tickers / companies
+!! Tickers / companies
 TSM, AMKR, ASE, INTC, Samsung
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

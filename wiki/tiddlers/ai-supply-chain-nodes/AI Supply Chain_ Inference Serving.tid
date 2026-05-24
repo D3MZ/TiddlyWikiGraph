@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:NVDA NASDAQ:AMD NASDAQ:GOOGL NASDAQ:AMZN NASDAQ:MSFT
 !! Description
 The production serving layer that runs trained models for live users.
 
-!! Example tickers / companies
+!! Tickers / companies
 NVDA, AMD, GOOGL, AMZN, MSFT, ORCL
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

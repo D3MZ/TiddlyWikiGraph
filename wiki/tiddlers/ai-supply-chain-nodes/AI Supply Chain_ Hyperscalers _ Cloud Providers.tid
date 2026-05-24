@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:AMZN NASDAQ:MSFT NASDAQ:GOOGL NYSE:ORCL NYSE:IBM
 !! Description
 Policy and institutional constraints that shape access, costs, and deployment for hyperscalers / cloud providers.
 
-!! Example tickers / companies
+!! Tickers / companies
 AMZN, MSFT, GOOGL, ORCL, IBM
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

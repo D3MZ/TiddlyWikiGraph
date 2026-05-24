@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:MSFT NASDAQ:GOOGL NASDAQ:META NASDAQ:AMZN NASDAQ:AAP
 !! Description
 Products and workflows where users experience AI value directly.
 
-!! Example tickers / companies
+!! Tickers / companies
 MSFT, GOOGL, META, AMZN, AAPL, PLTR, ADBE, CRM
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

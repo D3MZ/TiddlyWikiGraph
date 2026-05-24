@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:FSLR NASDAQ:ENPH OMXCOP:VWS
 !! Description
 Energy-system component that determines whether AI infrastructure can be powered at scale.
 
-!! Example tickers / companies
+!! Tickers / companies
 FSLR, ENPH, VWS.CO, GE Vernova
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

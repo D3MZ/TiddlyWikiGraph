@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:BHP NYSE:RIO NYSE:VALE NYSE:FCX NYSE:SCCO
 !! Description
 Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
 
-!! Example tickers / companies
+!! Tickers / companies
 BHP, RIO, VALE, FCX, SCCO
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

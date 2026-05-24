@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:PWR NYSE:MTZ NASDAQ:AEP NASDAQ:XEL
 !! Description
 Energy-system component that determines whether AI infrastructure can be powered at scale.
 
-!! Example tickers / companies
+!! Tickers / companies
 PWR, MTZ, AEP, XEL
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

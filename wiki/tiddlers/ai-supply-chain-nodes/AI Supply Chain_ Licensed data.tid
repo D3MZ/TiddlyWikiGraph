@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:RELX NYSE:TRI NYSE:NYT NASDAQ:NWSA NYSE:SPGI
 !! Description
 Input to model development that affects capability, safety, cost, or differentiation.
 
-!! Example tickers / companies
+!! Tickers / companies
 RELX, TRI, NYT, NWSA, SPGI
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

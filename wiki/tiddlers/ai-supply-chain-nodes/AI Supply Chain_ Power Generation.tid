@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:NEE NYSE:SO NYSE:DUK NASDAQ:CEG NYSE:VST
 !! Description
 Energy-system component that determines whether AI infrastructure can be powered at scale.
 
-!! Example tickers / companies
+!! Tickers / companies
 NEE, SO, DUK, CEG, VST
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

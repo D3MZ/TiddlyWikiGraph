@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:SNOW NASDAQ:DDOG NASDAQ:MDB NYSE:ORCL NYSE:SAP NYSE:CR
 !! Description
 Input to model development that affects capability, safety, cost, or differentiation.
 
-!! Example tickers / companies
+!! Tickers / companies
 SNOW, DDOG, MDB, ORCL, SAP, CRM
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

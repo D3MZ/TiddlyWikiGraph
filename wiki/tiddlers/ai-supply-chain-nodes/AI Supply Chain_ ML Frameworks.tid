@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:NVDA NASDAQ:GOOGL NASDAQ:META NASDAQ:AMD
 !! Description
 Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
 
-!! Example tickers / companies
+!! Tickers / companies
 NVDA, GOOGL, META, AMD
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

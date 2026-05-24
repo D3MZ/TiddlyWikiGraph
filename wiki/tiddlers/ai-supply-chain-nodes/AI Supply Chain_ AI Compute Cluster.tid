@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:NVDA NASDAQ:AMD NASDAQ:SMCI NYSE:DELL NYSE:HPE NYSE:
 !! Description
 The integrated fleet of servers, accelerators, storage, and network fabric used for AI workloads.
 
-!! Example tickers / companies
+!! Tickers / companies
 NVDA, AMD, SMCI, DELL, HPE, VRT
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

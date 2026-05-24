@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:MSFT NASDAQ:GOOGL NASDAQ:AMZN NASDAQ:META NYSE:ORCL 
 !! Description
 Commercial interfaces that expose models and tools to developers or enterprises.
 
-!! Example tickers / companies
+!! Tickers / companies
 MSFT, GOOGL, AMZN, META, ORCL, IBM
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

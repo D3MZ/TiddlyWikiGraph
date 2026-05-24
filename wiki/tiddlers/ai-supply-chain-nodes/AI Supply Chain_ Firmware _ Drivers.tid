@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:NVDA NASDAQ:AMD NASDAQ:INTC NASDAQ:MRVL
 !! Description
 Design-stage capability or tooling needed before AI silicon can be manufactured.
 
-!! Example tickers / companies
+!! Tickers / companies
 NVDA, AMD, INTC, MRVL
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:NVDA NASDAQ:AMD NASDAQ:GOOGL NASDAQ:INTC NASDAQ:AVGO
 !! Description
 Specialized chips that dominate training and high-throughput inference economics.
 
-!! Example tickers / companies
+!! Tickers / companies
 NVDA, AMD, GOOGL, INTC, AVGO, MRVL
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

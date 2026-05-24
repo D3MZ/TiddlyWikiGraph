@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:MSFT NASDAQ:GOOGL NASDAQ:AMZN NYSE:IBM
 !! Description
 Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
 
-!! Example tickers / companies
+!! Tickers / companies
 MSFT, GOOGL, AMZN, IBM, RHT
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

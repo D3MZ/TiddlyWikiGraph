@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:TER NASDAQ:COHU
 !! Description
 Part of the AI supply-chain graph connected to wafer sort / final test / burn-in.
 
-!! Example tickers / companies
+!! Tickers / companies
 TER, COHU, Advantest
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

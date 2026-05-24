@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:LMT NYSE:RTX NYSE:NOC NYSE:GD NASDAQ:PLTR
 !! Description
 Policy and institutional constraints that shape access, costs, and deployment for government procurement.
 
-!! Example tickers / companies
+!! Tickers / companies
 LMT, RTX, NOC, GD, PLTR
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

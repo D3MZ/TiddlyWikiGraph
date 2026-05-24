@@ -9,10 +9,9 @@ tradingview-symbols: NASDAQ:DDOG NASDAQ:SPLK NYSE:ESTC NYSE:GRAF NASDAQ:CRWD
 !! Description
 Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
 
-!! Example tickers / companies
+!! Tickers / companies
 DDOG, SPLK, ESTC, GRAF, CRWD
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts

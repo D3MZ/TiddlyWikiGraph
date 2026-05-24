@@ -9,10 +9,9 @@ tradingview-symbols: NYSE:PWR NYSE:ACM NYSE:J NYSE:FLR NYSE:MTZ
 !! Description
 Facility-level dependency for building and operating AI data centers.
 
-!! Example tickers / companies
+!! Tickers / companies
 PWR, ACM, J, FLR, MTZ
 
-//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
 
 !! TradingView charts
