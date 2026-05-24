@@ -1,0 +1,303 @@
+title: AI Supply Chain Flowchart
+tags: [[GettingStarted]] [[AI Supply Chain]] [[Flowcharts]]
+type: text/vnd.tiddlywiki
+
+This tiddler contains the AI supply-chain map as a Mermaid flowchart. For now it is stored as source; we can add a Mermaid renderer/plugin next so it displays visually inside the wiki.
+
+```mermaid
+flowchart TD
+
+%% =========================
+%% DEMAND / END MARKETS
+%% =========================
+
+Users[Users / Enterprises / Governments]
+Apps[AI Applications<br/>Assistants, coding, search, agents, robotics, ads, defense, drug discovery]
+APIs[Model APIs / SaaS Platforms]
+Inference[Inference Serving]
+Training[Pretraining / Fine-tuning / RLHF / Evaluation]
+Models[Foundation Models]
+
+Users --> Apps --> APIs --> Inference --> Models
+Training --> Models
+Models --> Inference
+
+%% =========================
+%% MODEL INPUTS
+%% =========================
+
+Data[Training / Evaluation Data]
+HumanData[Human preference data<br/>RLHF, labeling, expert feedback]
+SyntheticData[Synthetic data]
+EnterpriseData[Enterprise / private data]
+OpenData[Public web / code / papers]
+LicensedData[Licensed data]
+
+OpenData --> Data
+LicensedData --> Data
+EnterpriseData --> Data
+SyntheticData --> Data
+HumanData --> Training
+Data --> Training
+
+Algorithms[Algorithms / Architectures<br/>Transformers, MoE, diffusion, retrieval, agents]
+MLTalent[Researchers / ML Engineers]
+EvalSafety[Evaluation / Safety / Red teaming]
+
+Algorithms --> Training
+MLTalent --> Training
+EvalSafety --> Models
+EvalSafety --> Apps
+
+%% =========================
+%% SOFTWARE STACK
+%% =========================
+
+Frameworks[ML Frameworks<br/>PyTorch, JAX, TensorFlow, Triton]
+Compilers[Compilers / Runtime<br/>CUDA, ROCm, XLA, TensorRT, vLLM-like serving]
+Kernels[GPU Kernels / Collective Communication]
+Schedulers[Cluster Schedulers / Orchestration]
+Observability[Monitoring / Logging / Security]
+VectorDB[Vector DB / Retrieval / Embeddings]
+
+Frameworks --> Training
+Frameworks --> Inference
+Compilers --> Frameworks
+Kernels --> Compilers
+Schedulers --> Training
+Schedulers --> Inference
+Observability --> Apps
+VectorDB --> Apps
+EnterpriseData --> VectorDB
+
+%% =========================
+%% COMPUTE CLUSTER
+%% =========================
+
+ComputeCluster[AI Compute Cluster]
+Servers[AI Servers]
+Accelerators[AI Accelerators<br/>GPU / TPU / ASIC]
+CPUs[CPUs]
+HBM[High-Bandwidth Memory]
+DRAM[Server DRAM]
+Storage[NVMe SSD / HDD Storage]
+Networking[Networking Fabric<br/>InfiniBand / Ethernet / Optical]
+NICs[NICs / DPUs]
+Switches[Switch ASICs / Switch Systems]
+Optics[Optical Transceivers / Lasers]
+Racks[Racks / Power Shelves / Cabling]
+
+ComputeCluster --> Training
+ComputeCluster --> Inference
+Servers --> ComputeCluster
+Accelerators --> Servers
+CPUs --> Servers
+HBM --> Accelerators
+DRAM --> Servers
+Storage --> ComputeCluster
+Networking --> ComputeCluster
+NICs --> Networking
+Switches --> Networking
+Optics --> Networking
+Racks --> Servers
+
+%% =========================
+%% CHIP DESIGN
+%% =========================
+
+ChipDesign[Chip Design]
+EDA[EDA Software]
+IP[Semiconductor IP<br/>CPU, SerDes, memory controllers, interconnect]
+Firmware[Firmware / Drivers]
+DesignTalent[Chip Architects / Verification Engineers]
+
+EDA --> ChipDesign
+IP --> ChipDesign
+DesignTalent --> ChipDesign
+Firmware --> Accelerators
+ChipDesign --> Accelerators
+ChipDesign --> CPUs
+ChipDesign --> NICs
+ChipDesign --> Switches
+
+%% =========================
+%% SEMICONDUCTOR MANUFACTURING
+%% =========================
+
+Foundry[Foundry / Logic Wafer Fab]
+MemoryFab[Memory Fabs]
+Wafer[Silicon Wafers]
+Lithography[Lithography Tools<br/>EUV / DUV]
+SemiTools[Semicap Equipment<br/>Etch, deposition, metrology, inspection, cleaning]
+Photoresist[Photoresists]
+Gases[Specialty Gases]
+Chemicals[Wet Chemicals / Slurries]
+UPW[Ultrapure Water]
+Masks[Photomasks]
+Yield[Process Yield / Metrology]
+
+ChipDesign --> Foundry
+Foundry --> Accelerators
+Foundry --> CPUs
+Foundry --> NICs
+Foundry --> Switches
+
+MemoryFab --> HBM
+MemoryFab --> DRAM
+MemoryFab --> Storage
+
+Wafer --> Foundry
+Wafer --> MemoryFab
+Lithography --> Foundry
+Lithography --> MemoryFab
+SemiTools --> Foundry
+SemiTools --> MemoryFab
+Photoresist --> Foundry
+Gases --> Foundry
+Chemicals --> Foundry
+UPW --> Foundry
+Masks --> Foundry
+Yield --> Foundry
+Yield --> MemoryFab
+
+%% =========================
+%% ADVANCED PACKAGING
+%% =========================
+
+AdvancedPackaging[Advanced Packaging<br/>CoWoS-like 2.5D, interposers, chiplets]
+Substrates[ABF / Advanced Package Substrates]
+Interposers[Silicon Interposers / Bridges]
+Test[Wafer Sort / Final Test / Burn-in]
+OSAT[OSAT / Assembly Providers]
+
+Foundry --> AdvancedPackaging
+HBM --> AdvancedPackaging
+Substrates --> AdvancedPackaging
+Interposers --> AdvancedPackaging
+OSAT --> AdvancedPackaging
+AdvancedPackaging --> Accelerators
+Test --> Accelerators
+
+%% =========================
+%% DATA CENTER
+%% =========================
+
+DataCenter[AI Data Center]
+Land[Land / Zoning / Permits]
+Construction[Construction / EPC]
+PowerInfra[Electrical Infrastructure<br/>Substations, transformers, switchgear, PDUs, UPS]
+Cooling[Cooling<br/>Air, direct-to-chip liquid, chillers, heat rejection]
+Water[Water / Coolant / Heat Reuse]
+Fiber[Fiber Backhaul / Internet Exchanges]
+Security[Physical Security / Operations]
+Backup[Backup Power<br/>Batteries, diesel, gas turbines]
+
+DataCenter --> ComputeCluster
+Land --> DataCenter
+Construction --> DataCenter
+PowerInfra --> DataCenter
+Cooling --> DataCenter
+Water --> Cooling
+Fiber --> DataCenter
+Security --> DataCenter
+Backup --> DataCenter
+
+%% =========================
+%% ENERGY
+%% =========================
+
+Grid[Electric Grid]
+Generation[Power Generation<br/>Gas, nuclear, renewables, hydro]
+Transmission[Transmission Lines]
+Interconnect[Grid Interconnection Queue]
+Transformers[Large Transformers]
+Switchgear[Switchgear / Breakers]
+PPAs[Power Purchase Agreements]
+GasSupply[Natural Gas Supply]
+Uranium[Uranium / Nuclear Fuel]
+SolarWind[Solar / Wind Equipment]
+Batteries[Grid Batteries]
+
+Generation --> Grid
+Transmission --> Grid
+Grid --> PowerInfra
+Interconnect --> DataCenter
+Transformers --> PowerInfra
+Switchgear --> PowerInfra
+PPAs --> DataCenter
+GasSupply --> Generation
+Uranium --> Generation
+SolarWind --> Generation
+Batteries --> Grid
+
+%% =========================
+%% RAW MATERIALS
+%% =========================
+
+Mining[Mines]
+Refining[Refining / Smelting / Purification]
+Copper[Copper]
+Silicon[High-purity Silicon]
+AluminumSteel[Aluminum / Steel]
+RareEarths[Rare Earths]
+GalliumGermanium[Gallium / Germanium]
+TantalumTungsten[Tantalum / Tungsten]
+LithiumNickelCobalt[Lithium / Nickel / Cobalt]
+PalladiumPGM[PGMs / Palladium]
+IndustrialChem[Industrial Chemical Feedstocks]
+
+Mining --> Refining
+Refining --> Copper
+Refining --> Silicon
+Refining --> AluminumSteel
+Refining --> RareEarths
+Refining --> GalliumGermanium
+Refining --> TantalumTungsten
+Refining --> LithiumNickelCobalt
+Refining --> PalladiumPGM
+Refining --> IndustrialChem
+
+Copper --> PowerInfra
+Copper --> Networking
+Copper --> DataCenter
+Silicon --> Wafer
+AluminumSteel --> DataCenter
+RareEarths --> SemiTools
+GalliumGermanium --> Optics
+TantalumTungsten --> SemiTools
+LithiumNickelCobalt --> Batteries
+PalladiumPGM --> SemiTools
+IndustrialChem --> Chemicals
+IndustrialChem --> Gases
+IndustrialChem --> Photoresist
+
+%% =========================
+%% CAPITAL / POLICY
+%% =========================
+
+Capital[Capital Markets / Debt / Equity / Cloud Commitments]
+Clouds[Hyperscalers / Cloud Providers]
+ExportControls[Export Controls / Sanctions]
+PrivacyLaw[Privacy / Copyright / Data Regulation]
+EnergyPolicy[Energy Regulation / Utility Regulation]
+TradePolicy[Tariffs / Industrial Policy]
+Procurement[Government Procurement]
+
+Capital --> Clouds
+Capital --> DataCenter
+Capital --> Foundry
+Capital --> MemoryFab
+Capital --> AdvancedPackaging
+Clouds --> DataCenter
+Clouds --> ComputeCluster
+Clouds --> Apps
+ExportControls --> Accelerators
+ExportControls --> Foundry
+ExportControls --> Lithography
+PrivacyLaw --> Data
+EnergyPolicy --> Grid
+EnergyPolicy --> DataCenter
+TradePolicy --> Mining
+TradePolicy --> SemiTools
+Procurement --> Apps
+```
