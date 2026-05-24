@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Observability
 sector: Software Stack
 tickers: DDOG, SPLK, ESTC, GRAF, CRWD
-tradingview-symbol: NASDAQ:DDOG
+tradingview-symbols: NASDAQ:DDOG NASDAQ:SPLK NYSE:ESTC NYSE:GRAF NASDAQ:CRWD
 
 !! Description
 Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
@@ -14,11 +14,24 @@ DDOG, SPLK, ESTC, GRAF, CRWD
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NASDAQ-DDOG" setTo="yes">Open chart for NASDAQ:DDOG</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3ADDOG&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NASDAQ:DDOG
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3ADDOG&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NASDAQ:SPLK
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3ASPLK&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:ESTC
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AESTC&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:GRAF
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AGRAF&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NASDAQ:CRWD
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3ACRWD&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

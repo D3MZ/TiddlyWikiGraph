@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Foundry
 sector: Semiconductor Manufacturing
 tickers: TSM, INTC, Samsung
-tradingview-symbol: NYSE:TSM
+tradingview-symbols: NYSE:TSM NASDAQ:INTC
 
 !! Description
 Advanced logic fabs that manufacture many AI chips for fabless designers.
@@ -14,11 +14,15 @@ TSM, INTC, Samsung
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-TSM" setTo="yes">Open chart for NYSE:TSM</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ATSM&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:TSM
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ATSM&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NASDAQ:INTC
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AINTC&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Chip Design]] [[AI Supply Chain: Silicon Wafers]] [[AI Supply Chain: Lithography Tools]] [[AI Supply Chain: Semicap Equipment]] [[AI Supply Chain: Photoresists]] [[AI Supply Chain: Specialty Gases]] [[AI Supply Chain: Wet Chemicals / Slurries]] [[AI Supply Chain: Ultrapure Water]] [[AI Supply Chain: Photomasks]] [[AI Supply Chain: Process Yield / Metrology]] [[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]] [[AI Supply Chain: Export Controls / Sanctions]]

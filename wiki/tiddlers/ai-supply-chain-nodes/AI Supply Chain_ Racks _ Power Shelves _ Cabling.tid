@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Racks
 sector: Compute Cluster
 tickers: VRT, ETN, DELL, SMCI, HPE
-tradingview-symbol: NYSE:VRT
+tradingview-symbols: NYSE:VRT NYSE:ETN NYSE:DELL NASDAQ:SMCI NYSE:HPE
 
 !! Description
 Compute-infrastructure component used to assemble and operate AI clusters.
@@ -14,11 +14,24 @@ VRT, ETN, DELL, SMCI, HPE
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-VRT" setTo="yes">Open chart for NYSE:VRT</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AVRT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:VRT
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AVRT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:ETN
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AETN&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:DELL
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ADELL&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NASDAQ:SMCI
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3ASMCI&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:HPE
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AHPE&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

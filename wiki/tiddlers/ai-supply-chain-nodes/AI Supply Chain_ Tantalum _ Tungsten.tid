@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: TantalumTungsten
 sector: Raw Materials
 tickers: ALB?; CMOC, China Moly, Global Tungsten
-tradingview-symbol: NYSE:ALB
+tradingview-symbols: NYSE:ALB
 
 !! Description
 Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
@@ -14,11 +14,12 @@ ALB?; CMOC, China Moly, Global Tungsten
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-ALB" setTo="yes">Open chart for NYSE:ALB</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AALB&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:ALB
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AALB&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Refining / Smelting / Purification]]

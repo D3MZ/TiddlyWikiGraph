@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Uranium
 sector: Energy
 tickers: CCJ, NXE, UEC
-tradingview-symbol: NYSE:CCJ
+tradingview-symbols: NYSE:CCJ NYSE:NXE NYSE:UEC
 
 !! Description
 Energy-system component that determines whether AI infrastructure can be powered at scale.
@@ -14,11 +14,18 @@ CCJ, NXE, UEC
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-CCJ" setTo="yes">Open chart for NYSE:CCJ</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ACCJ&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:CCJ
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ACCJ&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:NXE
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ANXE&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:UEC
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AUEC&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

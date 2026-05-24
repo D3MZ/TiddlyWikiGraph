@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Procurement
 sector: Capital / Policy
 tickers: LMT, RTX, NOC, GD, PLTR
-tradingview-symbol: NYSE:LMT
+tradingview-symbols: NYSE:LMT NYSE:RTX NYSE:NOC NYSE:GD NASDAQ:PLTR
 
 !! Description
 Policy and institutional constraints that shape access, costs, and deployment for government procurement.
@@ -14,11 +14,24 @@ LMT, RTX, NOC, GD, PLTR
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-LMT" setTo="yes">Open chart for NYSE:LMT</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ALMT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:LMT
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ALMT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:RTX
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ARTX&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:NOC
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ANOC&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:GD
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AGD&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NASDAQ:PLTR
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3APLTR&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

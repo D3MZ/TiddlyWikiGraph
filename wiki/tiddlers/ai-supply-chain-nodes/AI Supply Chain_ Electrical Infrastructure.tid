@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: PowerInfra
 sector: Data Center
 tickers: ETN, PWR, ABBNY, SIEGY, SU.PA
-tradingview-symbol: NYSE:ETN
+tradingview-symbols: NYSE:ETN NYSE:PWR OTC:ABBNY OTC:SIEGY EURONEXT:SU
 
 !! Description
 Facility-level dependency for building and operating AI data centers.
@@ -14,11 +14,24 @@ ETN, PWR, ABBNY, SIEGY, SU.PA
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-ETN" setTo="yes">Open chart for NYSE:ETN</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AETN&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:ETN
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AETN&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:PWR
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3APWR&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! OTC:ABBNY
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=OTC%3AABBNY&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! OTC:SIEGY
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=OTC%3ASIEGY&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! EURONEXT:SU
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=EURONEXT%3ASU&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Electric Grid]] [[AI Supply Chain: Large Transformers]] [[AI Supply Chain: Switchgear / Breakers]] [[AI Supply Chain: Copper]]

@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Grid
 sector: Energy
 tickers: NEE, SO, DUK, AEP, EXC
-tradingview-symbol: NYSE:NEE
+tradingview-symbols: NYSE:NEE NYSE:SO NYSE:DUK NASDAQ:AEP NASDAQ:EXC
 
 !! Description
 The utility-scale electricity system feeding AI data centers.
@@ -14,11 +14,24 @@ NEE, SO, DUK, AEP, EXC
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-NEE" setTo="yes">Open chart for NYSE:NEE</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ANEE&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:NEE
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ANEE&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:SO
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ASO&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:DUK
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ADUK&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NASDAQ:AEP
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AAEP&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NASDAQ:EXC
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AEXC&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Power Generation]] [[AI Supply Chain: Transmission Lines]] [[AI Supply Chain: Grid Batteries]] [[AI Supply Chain: Energy Regulation / Utility Regulation]]

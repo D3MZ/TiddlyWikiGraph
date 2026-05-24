@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Security
 sector: Data Center
 tickers: ADT, ALLE, JCI
-tradingview-symbol: NYSE:ADT
+tradingview-symbols: NYSE:ADT NYSE:ALLE NYSE:JCI
 
 !! Description
 Facility-level dependency for building and operating AI data centers.
@@ -14,11 +14,18 @@ ADT, ALLE, JCI
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-ADT" setTo="yes">Open chart for NYSE:ADT</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AADT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:ADT
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AADT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:ALLE
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AALLE&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:JCI
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AJCI&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

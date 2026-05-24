@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: IndustrialChem
 sector: Raw Materials
 tickers: DD, DOW, LYB, BASFY
-tradingview-symbol: NYSE:DD
+tradingview-symbols: NYSE:DD NYSE:DOW NYSE:LYB OTC:BASFY
 
 !! Description
 Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
@@ -14,11 +14,21 @@ DD, DOW, LYB, BASFY
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-DD" setTo="yes">Open chart for NYSE:DD</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ADD&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:DD
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ADD&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:DOW
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ADOW&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:LYB
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ALYB&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! OTC:BASFY
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=OTC%3ABASFY&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Refining / Smelting / Purification]]

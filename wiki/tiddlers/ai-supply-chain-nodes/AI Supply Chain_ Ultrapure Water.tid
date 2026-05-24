@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: UPW
 sector: Semiconductor Manufacturing
 tickers: ECL, XYL, VE, SUEZ
-tradingview-symbol: NYSE:ECL
+tradingview-symbols: NYSE:ECL NYSE:XYL NYSE:VE
 
 !! Description
 Semiconductor supply-chain component needed to manufacture AI chips and memory.
@@ -14,11 +14,18 @@ ECL, XYL, VE, SUEZ
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-ECL" setTo="yes">Open chart for NYSE:ECL</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AECL&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:ECL
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AECL&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:XYL
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AXYL&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:VE
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AVE&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

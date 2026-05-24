@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: EnterpriseData
 sector: Model Inputs
 tickers: SNOW, DDOG, MDB, ORCL, SAP, CRM
-tradingview-symbol: NYSE:SNOW
+tradingview-symbols: NYSE:SNOW NASDAQ:DDOG NASDAQ:MDB NYSE:ORCL NYSE:SAP NYSE:CRM
 
 !! Description
 Input to model development that affects capability, safety, cost, or differentiation.
@@ -14,11 +14,27 @@ SNOW, DDOG, MDB, ORCL, SAP, CRM
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-SNOW" setTo="yes">Open chart for NYSE:SNOW</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ASNOW&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:SNOW
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ASNOW&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NASDAQ:DDOG
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3ADDOG&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NASDAQ:MDB
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AMDB&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:ORCL
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AORCL&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:SAP
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ASAP&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:CRM
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ACRM&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

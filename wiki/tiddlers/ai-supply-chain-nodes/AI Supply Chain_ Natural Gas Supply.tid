@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: GasSupply
 sector: Energy
 tickers: EQT, CTRA, LNG, KMI
-tradingview-symbol: NYSE:EQT
+tradingview-symbols: NYSE:EQT NYSE:CTRA NYSE:LNG NYSE:KMI
 
 !! Description
 Energy-system component that determines whether AI infrastructure can be powered at scale.
@@ -14,11 +14,21 @@ EQT, CTRA, LNG, KMI
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-EQT" setTo="yes">Open chart for NYSE:EQT</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AEQT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:EQT
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AEQT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:CTRA
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ACTRA&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:LNG
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ALNG&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:KMI
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AKMI&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Fiber
 sector: Data Center
 tickers: LUMN, CCI, AMT, ZAYO
-tradingview-symbol: NYSE:LUMN
+tradingview-symbols: NYSE:LUMN NYSE:CCI NYSE:AMT
 
 !! Description
 Facility-level dependency for building and operating AI data centers.
@@ -14,11 +14,18 @@ LUMN, CCI, AMT, ZAYO
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-LUMN" setTo="yes">Open chart for NYSE:LUMN</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ALUMN&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:LUMN
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ALUMN&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:CCI
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3ACCI&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NYSE:AMT
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AAMT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

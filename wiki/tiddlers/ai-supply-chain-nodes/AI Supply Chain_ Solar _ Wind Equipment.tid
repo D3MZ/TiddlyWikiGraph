@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: SolarWind
 sector: Energy
 tickers: FSLR, ENPH, VWS.CO, GE Vernova
-tradingview-symbol: NASDAQ:FSLR
+tradingview-symbols: NASDAQ:FSLR NASDAQ:ENPH OMXCOP:VWS
 
 !! Description
 Energy-system component that determines whether AI infrastructure can be powered at scale.
@@ -14,11 +14,18 @@ FSLR, ENPH, VWS.CO, GE Vernova
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NASDAQ-FSLR" setTo="yes">Open chart for NASDAQ:FSLR</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AFSLR&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NASDAQ:FSLR
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AFSLR&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! NASDAQ:ENPH
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AENPH&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! OMXCOP:VWS
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=OMXCOP%3AVWS&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

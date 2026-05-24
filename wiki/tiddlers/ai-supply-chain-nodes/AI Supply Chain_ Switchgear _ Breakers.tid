@@ -4,7 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Switchgear
 sector: Energy
 tickers: ETN, ABBNY, SIEGY, Schneider
-tradingview-symbol: NYSE:ETN
+tradingview-symbols: NYSE:ETN OTC:ABBNY OTC:SIEGY
 
 !! Description
 Energy-system component that determines whether AI infrastructure can be powered at scale.
@@ -14,11 +14,18 @@ ETN, ABBNY, SIEGY, Schneider
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
 
-!! TradingView chart
 
-<$button set="$:/temp/tradingview-open-NYSE-ETN" setTo="yes">Open chart for NYSE:ETN</$button>
+!! TradingView charts
+Live/delayed charts for mapped tickers in this node.
 
-<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AETN&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+!!! NYSE:ETN
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AETN&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! OTC:ABBNY
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=OTC%3AABBNY&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
+
+!!! OTC:SIEGY
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=OTC%3ASIEGY&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:460px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None
