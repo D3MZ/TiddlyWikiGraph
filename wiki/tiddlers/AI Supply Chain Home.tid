@@ -1,0 +1,67 @@
+title: AI Supply Chain Home
+tags: [[GettingStarted]]
+type: text/vnd.tiddlywiki
+
+! AI Supply Chain Atlas
+
+An explorable map of the AI economy, from end-user demand down through models, software, compute clusters, chips, fabs, data centers, energy, raw materials, capital, and policy.
+
+<$button to="AI Supply Chain Graph Index">Open node index</$button> <$button to="AI Supply Chain Mermaid Diagram">Open full diagram</$button> <$button to="TradingView Chart Integration">Chart notes</$button>
+
+!! Start here
+
+* [[Graph Index|AI Supply Chain Graph Index]] — browse every node grouped by supply-chain layer.
+* [[Full Mermaid Diagram|AI Supply Chain Mermaid Diagram]] — see the whole dependency map.
+* [[Source Flowchart|AI Supply Chain Flowchart]] — edit the Mermaid source.
+* [[TradingView Chart Integration]] — how ticker charts are embedded.
+
+!! Main layers
+
+* [[Demand / End Markets]]
+* [[Model Inputs]]
+* [[Software Stack]]
+* [[Compute Cluster]]
+* [[Chip Design]]
+* [[Semiconductor Manufacturing]]
+* [[Advanced Packaging]]
+* [[Data Center]]
+* [[Energy]]
+* [[Raw Materials]]
+* [[Capital / Policy]]
+
+!! Key nodes
+
+* [[AI Applications|AI Supply Chain: AI Applications]]
+* [[Foundation Models|AI Supply Chain: Foundation Models]]
+* [[Inference Serving|AI Supply Chain: Inference Serving]]
+* [[Pretraining / Fine-tuning / RLHF / Evaluation|AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]]
+* [[AI Compute Cluster|AI Supply Chain: AI Compute Cluster]]
+* [[AI Accelerators|AI Supply Chain: AI Accelerators]]
+* [[High-Bandwidth Memory|AI Supply Chain: High-Bandwidth Memory]]
+* [[Networking Fabric|AI Supply Chain: Networking Fabric]]
+* [[Foundry / Logic Wafer Fab|AI Supply Chain: Foundry / Logic Wafer Fab]]
+* [[Advanced Packaging|AI Supply Chain: Advanced Packaging]]
+* [[AI Data Center|AI Supply Chain: AI Data Center]]
+* [[Electric Grid|AI Supply Chain: Electric Grid]]
+* [[Capital Markets / Cloud Commitments|AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]]
+
+!! Nodes with charts
+
+Open any supply-chain node with a `tradingview-symbols` field to see embedded TradingView charts. Good examples:
+
+* [[AI Accelerators|AI Supply Chain: AI Accelerators]]
+* [[Hyperscalers / Cloud Providers|AI Supply Chain: Hyperscalers / Cloud Providers]]
+* [[Lithography Tools|AI Supply Chain: Lithography Tools]]
+* [[Semicap Equipment|AI Supply Chain: Semicap Equipment]]
+* [[Electric Grid|AI Supply Chain: Electric Grid]]
+
+!! Workflow
+
+# Use the graph index to pick a node.
+# Follow upstream inputs and downstream outputs.
+# Compare company/ticker exposure with the embedded charts.
+# Add notes, sources, or new edges as tiddlers.
+
+!! GitHub saving
+
+If editing from the live GitHub Pages site, configure the built-in GitHub saver once in Control Panel → Saving → GitHub Saver. See [[GitHub Saver Setup]].
