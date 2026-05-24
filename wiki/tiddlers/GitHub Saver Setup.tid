@@ -1,0 +1,21 @@
+title: GitHub Saver Setup
+tags: [[GettingStarted]]
+
+This wiki is prepared for the built-in TiddlyWiki GitHub saver.
+
+Before first online save:
+
+# Create a GitHub repository.
+# Put this `index.html` at the repository root.
+# In GitHub repo settings, enable Pages from `main` branch `/root`.
+# Create a fine-grained GitHub personal access token with contents read/write access to this repository.
+# In this wiki, open Control Panel → Saving → Git Service Saver / GitHub Saver.
+# Fill:
+#* Username: your GitHub username
+#* Password: your token
+#* Repository: `owner/repo`
+#* Branch: `main`
+#* Path: `/`
+#* Filename: `index.html`
+
+Security note: the token is stored in browser local storage. Use a token limited to this one repo and revoke it if exposed.

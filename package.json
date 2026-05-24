@@ -1,0 +1,15 @@
+{
+  "name": "tiddlywiki-graph",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TiddlyWiki set up for local editing and static hosting on GitHub Pages or Cloudflare Pages.",
+  "scripts": {
+    "start": "tiddlywiki wiki --listen host=127.0.0.1 port=8080",
+    "build": "tiddlywiki wiki --output . --build index",
+    "clean": "rm -rf public output",
+    "build:public": "rm -rf public && mkdir -p public && tiddlywiki wiki --output public --build index"
+  },
+  "devDependencies": {
+    "tiddlywiki": "^5.3.8"
+  }
+}
