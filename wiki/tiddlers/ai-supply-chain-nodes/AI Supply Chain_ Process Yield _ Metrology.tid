@@ -4,6 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Yield
 sector: Semiconductor Manufacturing
 tickers: KLAC, AMAT, ONTO, CAMT
+tradingview-symbol: NASDAQ:KLAC
 
 !! Description
 Semiconductor supply-chain component needed to manufacture AI chips and memory.
@@ -12,6 +13,12 @@ Semiconductor supply-chain component needed to manufacture AI chips and memory.
 KLAC, AMAT, ONTO, CAMT
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! TradingView chart
+
+<$button set="$:/temp/tradingview-open-NASDAQ-KLAC" setTo="yes">Open chart for NASDAQ:KLAC</$button>
+
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AKLAC&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

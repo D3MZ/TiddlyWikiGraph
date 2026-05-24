@@ -4,6 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Cooling
 sector: Data Center
 tickers: VRT, MOD, TT, JCI, CARR
+tradingview-symbol: NYSE:VRT
 
 !! Description
 Facility-level dependency for building and operating AI data centers.
@@ -12,6 +13,12 @@ Facility-level dependency for building and operating AI data centers.
 VRT, MOD, TT, JCI, CARR
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! TradingView chart
+
+<$button set="$:/temp/tradingview-open-NYSE-VRT" setTo="yes">Open chart for NYSE:VRT</$button>
+
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AVRT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Water / Coolant / Heat Reuse]]

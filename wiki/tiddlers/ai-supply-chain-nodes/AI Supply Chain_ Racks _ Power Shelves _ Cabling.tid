@@ -4,6 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Racks
 sector: Compute Cluster
 tickers: VRT, ETN, DELL, SMCI, HPE
+tradingview-symbol: NYSE:VRT
 
 !! Description
 Compute-infrastructure component used to assemble and operate AI clusters.
@@ -12,6 +13,12 @@ Compute-infrastructure component used to assemble and operate AI clusters.
 VRT, ETN, DELL, SMCI, HPE
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! TradingView chart
+
+<$button set="$:/temp/tradingview-open-NYSE-VRT" setTo="yes">Open chart for NYSE:VRT</$button>
+
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3AVRT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

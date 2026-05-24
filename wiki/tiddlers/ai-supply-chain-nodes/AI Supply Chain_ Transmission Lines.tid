@@ -4,6 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Transmission
 sector: Energy
 tickers: PWR, MTZ, AEP, XEL
+tradingview-symbol: NYSE:PWR
 
 !! Description
 Energy-system component that determines whether AI infrastructure can be powered at scale.
@@ -12,6 +13,12 @@ Energy-system component that determines whether AI infrastructure can be powered
 PWR, MTZ, AEP, XEL
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! TradingView chart
+
+<$button set="$:/temp/tradingview-open-NYSE-PWR" setTo="yes">Open chart for NYSE:PWR</$button>
+
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NYSE%3APWR&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 None

@@ -4,6 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Networking
 sector: Compute Cluster
 tickers: NVDA, AVGO, ANET, CSCO, MRVL
+tradingview-symbol: NASDAQ:NVDA
 
 !! Description
 Compute-infrastructure component used to assemble and operate AI clusters.
@@ -12,6 +13,12 @@ Compute-infrastructure component used to assemble and operate AI clusters.
 NVDA, AVGO, ANET, CSCO, MRVL
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! TradingView chart
+
+<$button set="$:/temp/tradingview-open-NASDAQ-NVDA" setTo="yes">Open chart for NASDAQ:NVDA</$button>
+
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3ANVDA&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: NICs / DPUs]] [[AI Supply Chain: Switch ASICs / Switch Systems]] [[AI Supply Chain: Optical Transceivers / Lasers]] [[AI Supply Chain: Copper]]

@@ -4,6 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: DataCenter
 sector: Data Center
 tickers: EQIX, DLR, VRT, ETN, DELL
+tradingview-symbol: NASDAQ:EQIX
 
 !! Description
 Physical facilities that house AI compute clusters and connect them to power, cooling, and networks.
@@ -12,6 +13,12 @@ Physical facilities that house AI compute clusters and connect them to power, co
 EQIX, DLR, VRT, ETN, DELL
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! TradingView chart
+
+<$button set="$:/temp/tradingview-open-NASDAQ-EQIX" setTo="yes">Open chart for NASDAQ:EQIX</$button>
+
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AEQIX&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Land / Zoning / Permits]] [[AI Supply Chain: Construction / EPC]] [[AI Supply Chain: Electrical Infrastructure]] [[AI Supply Chain: Cooling]] [[AI Supply Chain: Fiber Backhaul / Internet Exchanges]] [[AI Supply Chain: Physical Security / Operations]] [[AI Supply Chain: Backup Power]] [[AI Supply Chain: Grid Interconnection Queue]] [[AI Supply Chain: Power Purchase Agreements]] [[AI Supply Chain: Copper]] [[AI Supply Chain: Aluminum / Steel]] [[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]] [[AI Supply Chain: Hyperscalers / Cloud Providers]] [[AI Supply Chain: Energy Regulation / Utility Regulation]]

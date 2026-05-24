@@ -4,6 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Inference
 sector: Demand / End Markets
 tickers: NVDA, AMD, GOOGL, AMZN, MSFT, ORCL
+tradingview-symbol: NASDAQ:NVDA
 
 !! Description
 The production serving layer that runs trained models for live users.
@@ -12,6 +13,12 @@ The production serving layer that runs trained models for live users.
 NVDA, AMD, GOOGL, AMZN, MSFT, ORCL
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! TradingView chart
+
+<$button set="$:/temp/tradingview-open-NASDAQ-NVDA" setTo="yes">Open chart for NASDAQ:NVDA</$button>
+
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3ANVDA&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Foundation Models]] [[AI Supply Chain: ML Frameworks]] [[AI Supply Chain: Cluster Schedulers / Orchestration]] [[AI Supply Chain: AI Compute Cluster]]

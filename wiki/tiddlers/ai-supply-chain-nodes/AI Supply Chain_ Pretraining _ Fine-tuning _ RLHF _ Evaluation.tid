@@ -4,6 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Training
 sector: Demand / End Markets
 tickers: NVDA, AMD, GOOGL, MSFT, AMZN, META
+tradingview-symbol: NASDAQ:NVDA
 
 !! Description
 The compute- and data-intensive process of creating or improving models.
@@ -12,6 +13,12 @@ The compute- and data-intensive process of creating or improving models.
 NVDA, AMD, GOOGL, MSFT, AMZN, META
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! TradingView chart
+
+<$button set="$:/temp/tradingview-open-NASDAQ-NVDA" setTo="yes">Open chart for NASDAQ:NVDA</$button>
+
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3ANVDA&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Human preference data]] [[AI Supply Chain: Training / Evaluation Data]] [[AI Supply Chain: Algorithms / Architectures]] [[AI Supply Chain: Researchers / ML Engineers]] [[AI Supply Chain: ML Frameworks]] [[AI Supply Chain: Cluster Schedulers / Orchestration]] [[AI Supply Chain: AI Compute Cluster]]

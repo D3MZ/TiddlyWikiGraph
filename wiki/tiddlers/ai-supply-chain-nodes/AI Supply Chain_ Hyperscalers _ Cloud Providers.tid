@@ -4,6 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Clouds
 sector: Capital / Policy
 tickers: AMZN, MSFT, GOOGL, ORCL, IBM
+tradingview-symbol: NASDAQ:AMZN
 
 !! Description
 Policy and institutional constraints that shape access, costs, and deployment for hyperscalers / cloud providers.
@@ -12,6 +13,12 @@ Policy and institutional constraints that shape access, costs, and deployment fo
 AMZN, MSFT, GOOGL, ORCL, IBM
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! TradingView chart
+
+<$button set="$:/temp/tradingview-open-NASDAQ-AMZN" setTo="yes">Open chart for NASDAQ:AMZN</$button>
+
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AAMZN&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]]

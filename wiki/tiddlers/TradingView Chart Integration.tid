@@ -1,0 +1,21 @@
+title: TradingView Chart Integration
+tags: [[GettingStarted]] [[AI Supply Chain]]
+type: text/vnd.tiddlywiki
+
+The AI supply-chain node tiddlers now include embedded TradingView charts when a ticker can be mapped to a TradingView symbol.
+
+Implementation notes:
+
+* Uses TradingView's iframe widget URL, not an external script, because TiddlyWiki blocks `script` tags as unsafe.
+* Each node keeps its illustrative ticker list in the `tickers` field.
+* Nodes with a recognized ticker also get a `tradingview-symbol` field.
+* The chart is illustrative and defaults to the first recognized ticker for that node.
+
+Examples:
+
+* [[AI Supply Chain: AI Accelerators]]
+* [[AI Supply Chain: Hyperscalers / Cloud Providers]]
+* [[AI Supply Chain: Lithography Tools]]
+* [[AI Supply Chain: Electric Grid]]
+
+Ticker/company lists are examples only, not investment advice.

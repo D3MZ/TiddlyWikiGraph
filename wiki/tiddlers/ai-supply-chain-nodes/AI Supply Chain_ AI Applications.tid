@@ -4,6 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: Apps
 sector: Demand / End Markets
 tickers: MSFT, GOOGL, META, AMZN, AAPL, PLTR, ADBE, CRM
+tradingview-symbol: NASDAQ:MSFT
 
 !! Description
 Products and workflows where users experience AI value directly.
@@ -12,6 +13,12 @@ Products and workflows where users experience AI value directly.
 MSFT, GOOGL, META, AMZN, AAPL, PLTR, ADBE, CRM
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! TradingView chart
+
+<$button set="$:/temp/tradingview-open-NASDAQ-MSFT" setTo="yes">Open chart for NASDAQ:MSFT</$button>
+
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AMSFT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Evaluation / Safety / Red teaming]] [[AI Supply Chain: Monitoring / Logging / Security]] [[AI Supply Chain: Vector DB / Retrieval / Embeddings]] [[AI Supply Chain: Hyperscalers / Cloud Providers]] [[AI Supply Chain: Government Procurement]]

@@ -4,6 +4,7 @@ type: text/vnd.tiddlywiki
 node-id: SemiTools
 sector: Semiconductor Manufacturing
 tickers: AMAT, LRCX, KLAC, ASML, TEL
+tradingview-symbol: NASDAQ:AMAT
 
 !! Description
 Semiconductor supply-chain component needed to manufacture AI chips and memory.
@@ -12,6 +13,12 @@ Semiconductor supply-chain component needed to manufacture AI chips and memory.
 AMAT, LRCX, KLAC, ASML, TEL
 
 //Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! TradingView chart
+
+<$button set="$:/temp/tradingview-open-NASDAQ-AMAT" setTo="yes">Open chart for NASDAQ:AMAT</$button>
+
+<iframe src="https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3AAMAT&interval=D&hidesidetoolbar=1&theme=dark&style=1&timezone=Etc%2FUTC&withdateranges=1" style="width:100%;height:520px;border:0;" allowtransparency="true" scrolling="no"></iframe>
 
 !! Upstream inputs
 [[AI Supply Chain: Rare Earths]] [[AI Supply Chain: Tantalum / Tungsten]] [[AI Supply Chain: PGMs / Palladium]] [[AI Supply Chain: Tariffs / Industrial Policy]]
