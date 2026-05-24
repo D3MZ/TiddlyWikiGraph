@@ -1,0 +1,26 @@
+title: AI Supply Chain: Networking Fabric
+tags: [[AI Supply Chain Node]] [[Compute Cluster]]
+type: text/vnd.tiddlywiki
+node-id: Networking
+sector: Compute Cluster
+tickers: NVDA, AVGO, ANET, CSCO, MRVL
+
+!! Description
+Compute-infrastructure component used to assemble and operate AI clusters.
+
+!! Example tickers / companies
+NVDA, AVGO, ANET, CSCO, MRVL
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: NICs / DPUs]] [[AI Supply Chain: Switch ASICs / Switch Systems]] [[AI Supply Chain: Optical Transceivers / Lasers]] [[AI Supply Chain: Copper]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Compute Cluster]]
+
+!! Related nodes
+[[AI Supply Chain: AI Compute Cluster]] [[AI Supply Chain: Copper]] [[AI Supply Chain: NICs / DPUs]] [[AI Supply Chain: Optical Transceivers / Lasers]] [[AI Supply Chain: Switch ASICs / Switch Systems]]
+
+!! Mermaid label
+`Networking Fabric — InfiniBand / Ethernet / Optical`

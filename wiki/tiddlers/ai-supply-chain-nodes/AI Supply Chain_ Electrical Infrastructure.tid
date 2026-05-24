@@ -1,0 +1,26 @@
+title: AI Supply Chain: Electrical Infrastructure
+tags: [[AI Supply Chain Node]] [[Data Center]]
+type: text/vnd.tiddlywiki
+node-id: PowerInfra
+sector: Data Center
+tickers: ETN, PWR, ABBNY, SIEGY, SU.PA
+
+!! Description
+Facility-level dependency for building and operating AI data centers.
+
+!! Example tickers / companies
+ETN, PWR, ABBNY, SIEGY, SU.PA
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Electric Grid]] [[AI Supply Chain: Large Transformers]] [[AI Supply Chain: Switchgear / Breakers]] [[AI Supply Chain: Copper]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Data Center]]
+
+!! Related nodes
+[[AI Supply Chain: Copper]] [[AI Supply Chain: AI Data Center]] [[AI Supply Chain: Electric Grid]] [[AI Supply Chain: Switchgear / Breakers]] [[AI Supply Chain: Large Transformers]]
+
+!! Mermaid label
+`Electrical Infrastructure — Substations, transformers, switchgear, PDUs, UPS`

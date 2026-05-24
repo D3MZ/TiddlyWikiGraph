@@ -1,0 +1,26 @@
+title: AI Supply Chain: Monitoring / Logging / Security
+tags: [[AI Supply Chain Node]] [[Software Stack]]
+type: text/vnd.tiddlywiki
+node-id: Observability
+sector: Software Stack
+tickers: DDOG, SPLK, ESTC, GRAF, CRWD
+
+!! Description
+Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+
+!! Example tickers / companies
+DDOG, SPLK, ESTC, GRAF, CRWD
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: AI Applications]]
+
+!! Related nodes
+[[AI Supply Chain: AI Applications]]
+
+!! Mermaid label
+`Monitoring / Logging / Security`

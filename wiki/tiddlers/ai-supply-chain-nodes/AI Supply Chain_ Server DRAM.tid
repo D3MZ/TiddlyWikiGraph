@@ -1,0 +1,26 @@
+title: AI Supply Chain: Server DRAM
+tags: [[AI Supply Chain Node]] [[Compute Cluster]]
+type: text/vnd.tiddlywiki
+node-id: DRAM
+sector: Compute Cluster
+tickers: MU, Samsung, SK Hynix
+
+!! Description
+Compute-infrastructure component used to assemble and operate AI clusters.
+
+!! Example tickers / companies
+MU, Samsung, SK Hynix
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Memory Fabs]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Servers]]
+
+!! Related nodes
+[[AI Supply Chain: Memory Fabs]] [[AI Supply Chain: AI Servers]]
+
+!! Mermaid label
+`Server DRAM`

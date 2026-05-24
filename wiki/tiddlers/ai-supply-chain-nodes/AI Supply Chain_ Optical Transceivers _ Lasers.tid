@@ -1,0 +1,26 @@
+title: AI Supply Chain: Optical Transceivers / Lasers
+tags: [[AI Supply Chain Node]] [[Compute Cluster]]
+type: text/vnd.tiddlywiki
+node-id: Optics
+sector: Compute Cluster
+tickers: COHR, LITE, FN, AVGO
+
+!! Description
+Compute-infrastructure component used to assemble and operate AI clusters.
+
+!! Example tickers / companies
+COHR, LITE, FN, AVGO
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Gallium / Germanium]]
+
+!! Downstream outputs
+[[AI Supply Chain: Networking Fabric]]
+
+!! Related nodes
+[[AI Supply Chain: Gallium / Germanium]] [[AI Supply Chain: Networking Fabric]]
+
+!! Mermaid label
+`Optical Transceivers / Lasers`

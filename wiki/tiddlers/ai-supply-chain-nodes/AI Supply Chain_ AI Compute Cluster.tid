@@ -1,0 +1,26 @@
+title: AI Supply Chain: AI Compute Cluster
+tags: [[AI Supply Chain Node]] [[Compute Cluster]]
+type: text/vnd.tiddlywiki
+node-id: ComputeCluster
+sector: Compute Cluster
+tickers: NVDA, AMD, SMCI, DELL, HPE, VRT
+
+!! Description
+The integrated fleet of servers, accelerators, storage, and network fabric used for AI workloads.
+
+!! Example tickers / companies
+NVDA, AMD, SMCI, DELL, HPE, VRT
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: AI Servers]] [[AI Supply Chain: NVMe SSD / HDD Storage]] [[AI Supply Chain: Networking Fabric]] [[AI Supply Chain: AI Data Center]] [[AI Supply Chain: Hyperscalers / Cloud Providers]]
+
+!! Downstream outputs
+[[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]] [[AI Supply Chain: Inference Serving]]
+
+!! Related nodes
+[[AI Supply Chain: Hyperscalers / Cloud Providers]] [[AI Supply Chain: AI Data Center]] [[AI Supply Chain: Inference Serving]] [[AI Supply Chain: Networking Fabric]] [[AI Supply Chain: AI Servers]] [[AI Supply Chain: NVMe SSD / HDD Storage]] [[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]]
+
+!! Mermaid label
+`AI Compute Cluster`

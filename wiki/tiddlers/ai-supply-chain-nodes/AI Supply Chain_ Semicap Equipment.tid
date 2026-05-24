@@ -1,0 +1,26 @@
+title: AI Supply Chain: Semicap Equipment
+tags: [[AI Supply Chain Node]] [[Semiconductor Manufacturing]]
+type: text/vnd.tiddlywiki
+node-id: SemiTools
+sector: Semiconductor Manufacturing
+tickers: AMAT, LRCX, KLAC, ASML, TEL
+
+!! Description
+Semiconductor supply-chain component needed to manufacture AI chips and memory.
+
+!! Example tickers / companies
+AMAT, LRCX, KLAC, ASML, TEL
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Rare Earths]] [[AI Supply Chain: Tantalum / Tungsten]] [[AI Supply Chain: PGMs / Palladium]] [[AI Supply Chain: Tariffs / Industrial Policy]]
+
+!! Downstream outputs
+[[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Memory Fabs]]
+
+!! Related nodes
+[[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Memory Fabs]] [[AI Supply Chain: PGMs / Palladium]] [[AI Supply Chain: Rare Earths]] [[AI Supply Chain: Tantalum / Tungsten]] [[AI Supply Chain: Tariffs / Industrial Policy]]
+
+!! Mermaid label
+`Semicap Equipment — Etch, deposition, metrology, inspection, cleaning`

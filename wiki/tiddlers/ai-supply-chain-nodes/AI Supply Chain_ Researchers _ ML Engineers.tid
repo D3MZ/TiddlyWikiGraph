@@ -1,0 +1,26 @@
+title: AI Supply Chain: Researchers / ML Engineers
+tags: [[AI Supply Chain Node]] [[Model Inputs]]
+type: text/vnd.tiddlywiki
+node-id: MLTalent
+sector: Model Inputs
+tickers: 
+
+!! Description
+Input to model development that affects capability, safety, cost, or differentiation.
+
+!! Example tickers / companies
+N/A
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]]
+
+!! Related nodes
+[[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]]
+
+!! Mermaid label
+`Researchers / ML Engineers`

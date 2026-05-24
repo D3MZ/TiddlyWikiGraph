@@ -1,0 +1,26 @@
+title: AI Supply Chain: Training / Evaluation Data
+tags: [[AI Supply Chain Node]] [[Model Inputs]]
+type: text/vnd.tiddlywiki
+node-id: Data
+sector: Model Inputs
+tickers: RELX, TRI, SPGI, MCO
+
+!! Description
+Input to model development that affects capability, safety, cost, or differentiation.
+
+!! Example tickers / companies
+RELX, TRI, SPGI, MCO
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Public web / code / papers]] [[AI Supply Chain: Licensed data]] [[AI Supply Chain: Enterprise / private data]] [[AI Supply Chain: Synthetic data]] [[AI Supply Chain: Privacy / Copyright / Data Regulation]]
+
+!! Downstream outputs
+[[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]]
+
+!! Related nodes
+[[AI Supply Chain: Enterprise / private data]] [[AI Supply Chain: Licensed data]] [[AI Supply Chain: Public web / code / papers]] [[AI Supply Chain: Privacy / Copyright / Data Regulation]] [[AI Supply Chain: Synthetic data]] [[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]]
+
+!! Mermaid label
+`Training / Evaluation Data`

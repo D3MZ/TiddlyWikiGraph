@@ -1,0 +1,26 @@
+title: AI Supply Chain: Natural Gas Supply
+tags: [[AI Supply Chain Node]] [[Energy]]
+type: text/vnd.tiddlywiki
+node-id: GasSupply
+sector: Energy
+tickers: EQT, CTRA, LNG, KMI
+
+!! Description
+Energy-system component that determines whether AI infrastructure can be powered at scale.
+
+!! Example tickers / companies
+EQT, CTRA, LNG, KMI
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Power Generation]]
+
+!! Related nodes
+[[AI Supply Chain: Power Generation]]
+
+!! Mermaid label
+`Natural Gas Supply`

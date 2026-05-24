@@ -1,0 +1,26 @@
+title: AI Supply Chain: Mines
+tags: [[AI Supply Chain Node]] [[Raw Materials]]
+type: text/vnd.tiddlywiki
+node-id: Mining
+sector: Raw Materials
+tickers: BHP, RIO, VALE, FCX, SCCO
+
+!! Description
+Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+
+!! Example tickers / companies
+BHP, RIO, VALE, FCX, SCCO
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Tariffs / Industrial Policy]]
+
+!! Downstream outputs
+[[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Related nodes
+[[AI Supply Chain: Refining / Smelting / Purification]] [[AI Supply Chain: Tariffs / Industrial Policy]]
+
+!! Mermaid label
+`Mines`

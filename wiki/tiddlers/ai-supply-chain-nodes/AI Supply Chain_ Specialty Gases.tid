@@ -1,0 +1,26 @@
+title: AI Supply Chain: Specialty Gases
+tags: [[AI Supply Chain Node]] [[Semiconductor Manufacturing]]
+type: text/vnd.tiddlywiki
+node-id: Gases
+sector: Semiconductor Manufacturing
+tickers: LIN, AIQUY, APD
+
+!! Description
+Semiconductor supply-chain component needed to manufacture AI chips and memory.
+
+!! Example tickers / companies
+LIN, AIQUY, APD
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Industrial Chemical Feedstocks]]
+
+!! Downstream outputs
+[[AI Supply Chain: Foundry / Logic Wafer Fab]]
+
+!! Related nodes
+[[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Industrial Chemical Feedstocks]]
+
+!! Mermaid label
+`Specialty Gases`

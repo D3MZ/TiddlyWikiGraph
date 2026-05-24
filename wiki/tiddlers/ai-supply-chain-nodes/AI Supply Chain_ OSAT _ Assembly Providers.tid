@@ -1,0 +1,26 @@
+title: AI Supply Chain: OSAT / Assembly Providers
+tags: [[AI Supply Chain Node]] [[Advanced Packaging]]
+type: text/vnd.tiddlywiki
+node-id: OSAT
+sector: Advanced Packaging
+tickers: AMKR, ASE
+
+!! Description
+Part of the AI supply-chain graph connected to osat / assembly providers.
+
+!! Example tickers / companies
+AMKR, ASE
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Advanced Packaging]]
+
+!! Related nodes
+[[AI Supply Chain: Advanced Packaging]]
+
+!! Mermaid label
+`OSAT / Assembly Providers`

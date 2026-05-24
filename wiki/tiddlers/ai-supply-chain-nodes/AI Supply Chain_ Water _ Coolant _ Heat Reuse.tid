@@ -1,0 +1,26 @@
+title: AI Supply Chain: Water / Coolant / Heat Reuse
+tags: [[AI Supply Chain Node]] [[Data Center]]
+type: text/vnd.tiddlywiki
+node-id: Water
+sector: Data Center
+tickers: ECL, XYL, AWK
+
+!! Description
+Facility-level dependency for building and operating AI data centers.
+
+!! Example tickers / companies
+ECL, XYL, AWK
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Cooling]]
+
+!! Related nodes
+[[AI Supply Chain: Cooling]]
+
+!! Mermaid label
+`Water / Coolant / Heat Reuse`

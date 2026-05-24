@@ -1,0 +1,26 @@
+title: AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments
+tags: [[AI Supply Chain Node]] [[Capital / Policy]]
+type: text/vnd.tiddlywiki
+node-id: Capital
+sector: Capital / Policy
+tickers: JPM, GS, MS, BX, KKR, BLK
+
+!! Description
+Financing and cloud purchase commitments that fund data centers, chips, fabs, and power.
+
+!! Example tickers / companies
+JPM, GS, MS, BX, KKR, BLK
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Hyperscalers / Cloud Providers]] [[AI Supply Chain: AI Data Center]] [[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Memory Fabs]] [[AI Supply Chain: Advanced Packaging]]
+
+!! Related nodes
+[[AI Supply Chain: Advanced Packaging]] [[AI Supply Chain: Hyperscalers / Cloud Providers]] [[AI Supply Chain: AI Data Center]] [[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Memory Fabs]]
+
+!! Mermaid label
+`Capital Markets / Debt / Equity / Cloud Commitments`

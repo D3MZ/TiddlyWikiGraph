@@ -1,0 +1,26 @@
+title: AI Supply Chain: Energy Regulation / Utility Regulation
+tags: [[AI Supply Chain Node]] [[Capital / Policy]]
+type: text/vnd.tiddlywiki
+node-id: EnergyPolicy
+sector: Capital / Policy
+tickers: N/A — policy
+
+!! Description
+Policy and institutional constraints that shape access, costs, and deployment for energy regulation / utility regulation.
+
+!! Example tickers / companies
+N/A — policy
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Electric Grid]] [[AI Supply Chain: AI Data Center]]
+
+!! Related nodes
+[[AI Supply Chain: AI Data Center]] [[AI Supply Chain: Electric Grid]]
+
+!! Mermaid label
+`Energy Regulation / Utility Regulation`

@@ -1,0 +1,26 @@
+title: AI Supply Chain: Foundation Models
+tags: [[AI Supply Chain Node]] [[Demand / End Markets]]
+type: text/vnd.tiddlywiki
+node-id: Models
+sector: Demand / End Markets
+tickers: MSFT, GOOGL, META, AMZN, IBM
+
+!! Description
+Reusable AI systems that encode learned capabilities and power downstream products.
+
+!! Example tickers / companies
+MSFT, GOOGL, META, AMZN, IBM
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]] [[AI Supply Chain: Evaluation / Safety / Red teaming]]
+
+!! Downstream outputs
+[[AI Supply Chain: Inference Serving]]
+
+!! Related nodes
+[[AI Supply Chain: Evaluation / Safety / Red teaming]] [[AI Supply Chain: Inference Serving]] [[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]]
+
+!! Mermaid label
+`Foundation Models`

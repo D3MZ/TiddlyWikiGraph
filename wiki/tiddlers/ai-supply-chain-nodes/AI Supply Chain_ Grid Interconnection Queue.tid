@@ -1,0 +1,26 @@
+title: AI Supply Chain: Grid Interconnection Queue
+tags: [[AI Supply Chain Node]] [[Energy]]
+type: text/vnd.tiddlywiki
+node-id: Interconnect
+sector: Energy
+tickers: 
+
+!! Description
+Energy-system component that determines whether AI infrastructure can be powered at scale.
+
+!! Example tickers / companies
+N/A
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: AI Data Center]]
+
+!! Related nodes
+[[AI Supply Chain: AI Data Center]]
+
+!! Mermaid label
+`Grid Interconnection Queue`

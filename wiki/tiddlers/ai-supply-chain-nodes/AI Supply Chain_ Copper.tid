@@ -1,0 +1,26 @@
+title: AI Supply Chain: Copper
+tags: [[AI Supply Chain Node]] [[Raw Materials]]
+type: text/vnd.tiddlywiki
+node-id: Copper
+sector: Raw Materials
+tickers: FCX, SCCO, TECK, RIO
+
+!! Description
+Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+
+!! Example tickers / companies
+FCX, SCCO, TECK, RIO
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Downstream outputs
+[[AI Supply Chain: Electrical Infrastructure]] [[AI Supply Chain: Networking Fabric]] [[AI Supply Chain: AI Data Center]]
+
+!! Related nodes
+[[AI Supply Chain: AI Data Center]] [[AI Supply Chain: Networking Fabric]] [[AI Supply Chain: Electrical Infrastructure]] [[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Mermaid label
+`Copper`

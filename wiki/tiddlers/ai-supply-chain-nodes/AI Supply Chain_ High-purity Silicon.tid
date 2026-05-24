@@ -1,0 +1,26 @@
+title: AI Supply Chain: High-purity Silicon
+tags: [[AI Supply Chain Node]] [[Raw Materials]]
+type: text/vnd.tiddlywiki
+node-id: Silicon
+sector: Raw Materials
+tickers: WOLF, REC Silicon, Shin-Etsu
+
+!! Description
+Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+
+!! Example tickers / companies
+WOLF, REC Silicon, Shin-Etsu
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Downstream outputs
+[[AI Supply Chain: Silicon Wafers]]
+
+!! Related nodes
+[[AI Supply Chain: Refining / Smelting / Purification]] [[AI Supply Chain: Silicon Wafers]]
+
+!! Mermaid label
+`High-purity Silicon`

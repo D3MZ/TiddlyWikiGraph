@@ -1,0 +1,26 @@
+title: AI Supply Chain: Semiconductor IP
+tags: [[AI Supply Chain Node]] [[Chip Design]]
+type: text/vnd.tiddlywiki
+node-id: IP
+sector: Chip Design
+tickers: ARM, SNPS, CDNS, CEVA
+
+!! Description
+Design-stage capability or tooling needed before AI silicon can be manufactured.
+
+!! Example tickers / companies
+ARM, SNPS, CDNS, CEVA
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Chip Design]]
+
+!! Related nodes
+[[AI Supply Chain: Chip Design]]
+
+!! Mermaid label
+`Semiconductor IP — CPU, SerDes, memory controllers, interconnect`

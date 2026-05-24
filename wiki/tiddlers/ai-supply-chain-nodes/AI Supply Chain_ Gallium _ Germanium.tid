@@ -1,0 +1,26 @@
+title: AI Supply Chain: Gallium / Germanium
+tags: [[AI Supply Chain Node]] [[Raw Materials]]
+type: text/vnd.tiddlywiki
+node-id: GalliumGermanium
+sector: Raw Materials
+tickers: TECK, Nyrstar, Yunnan Germanium
+
+!! Description
+Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+
+!! Example tickers / companies
+TECK, Nyrstar, Yunnan Germanium
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Downstream outputs
+[[AI Supply Chain: Optical Transceivers / Lasers]]
+
+!! Related nodes
+[[AI Supply Chain: Optical Transceivers / Lasers]] [[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Mermaid label
+`Gallium / Germanium`

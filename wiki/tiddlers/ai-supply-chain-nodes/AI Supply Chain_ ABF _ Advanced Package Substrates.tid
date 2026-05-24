@@ -1,0 +1,26 @@
+title: AI Supply Chain: ABF / Advanced Package Substrates
+tags: [[AI Supply Chain Node]] [[Advanced Packaging]]
+type: text/vnd.tiddlywiki
+node-id: Substrates
+sector: Advanced Packaging
+tickers: Ibiden, Shinko, AT&S, Unimicron
+
+!! Description
+Part of the AI supply-chain graph connected to abf / advanced package substrates.
+
+!! Example tickers / companies
+Ibiden, Shinko, AT&S, Unimicron
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Advanced Packaging]]
+
+!! Related nodes
+[[AI Supply Chain: Advanced Packaging]]
+
+!! Mermaid label
+`ABF / Advanced Package Substrates`

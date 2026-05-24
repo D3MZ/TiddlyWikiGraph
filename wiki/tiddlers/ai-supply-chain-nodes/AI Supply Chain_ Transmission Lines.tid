@@ -1,0 +1,26 @@
+title: AI Supply Chain: Transmission Lines
+tags: [[AI Supply Chain Node]] [[Energy]]
+type: text/vnd.tiddlywiki
+node-id: Transmission
+sector: Energy
+tickers: PWR, MTZ, AEP, XEL
+
+!! Description
+Energy-system component that determines whether AI infrastructure can be powered at scale.
+
+!! Example tickers / companies
+PWR, MTZ, AEP, XEL
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Electric Grid]]
+
+!! Related nodes
+[[AI Supply Chain: Electric Grid]]
+
+!! Mermaid label
+`Transmission Lines`

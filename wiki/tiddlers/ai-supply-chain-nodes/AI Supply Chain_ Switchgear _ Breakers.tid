@@ -1,0 +1,26 @@
+title: AI Supply Chain: Switchgear / Breakers
+tags: [[AI Supply Chain Node]] [[Energy]]
+type: text/vnd.tiddlywiki
+node-id: Switchgear
+sector: Energy
+tickers: ETN, ABBNY, SIEGY, Schneider
+
+!! Description
+Energy-system component that determines whether AI infrastructure can be powered at scale.
+
+!! Example tickers / companies
+ETN, ABBNY, SIEGY, Schneider
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Electrical Infrastructure]]
+
+!! Related nodes
+[[AI Supply Chain: Electrical Infrastructure]]
+
+!! Mermaid label
+`Switchgear / Breakers`

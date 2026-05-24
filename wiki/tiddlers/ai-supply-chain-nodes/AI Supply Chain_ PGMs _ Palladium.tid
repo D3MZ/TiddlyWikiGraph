@@ -1,0 +1,26 @@
+title: AI Supply Chain: PGMs / Palladium
+tags: [[AI Supply Chain Node]] [[Raw Materials]]
+type: text/vnd.tiddlywiki
+node-id: PalladiumPGM
+sector: Raw Materials
+tickers: SBSW, IMPUY, ANGPY
+
+!! Description
+Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+
+!! Example tickers / companies
+SBSW, IMPUY, ANGPY
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Downstream outputs
+[[AI Supply Chain: Semicap Equipment]]
+
+!! Related nodes
+[[AI Supply Chain: Refining / Smelting / Purification]] [[AI Supply Chain: Semicap Equipment]]
+
+!! Mermaid label
+`PGMs / Palladium`

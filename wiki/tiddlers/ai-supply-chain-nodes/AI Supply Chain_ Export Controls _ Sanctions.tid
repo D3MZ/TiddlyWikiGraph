@@ -1,0 +1,26 @@
+title: AI Supply Chain: Export Controls / Sanctions
+tags: [[AI Supply Chain Node]] [[Capital / Policy]]
+type: text/vnd.tiddlywiki
+node-id: ExportControls
+sector: Capital / Policy
+tickers: N/A — policy
+
+!! Description
+Policy and institutional constraints that shape access, costs, and deployment for export controls / sanctions.
+
+!! Example tickers / companies
+N/A — policy
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: AI Accelerators]] [[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Lithography Tools]]
+
+!! Related nodes
+[[AI Supply Chain: AI Accelerators]] [[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Lithography Tools]]
+
+!! Mermaid label
+`Export Controls / Sanctions`

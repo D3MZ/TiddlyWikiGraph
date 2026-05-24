@@ -1,0 +1,26 @@
+title: AI Supply Chain: Fiber Backhaul / Internet Exchanges
+tags: [[AI Supply Chain Node]] [[Data Center]]
+type: text/vnd.tiddlywiki
+node-id: Fiber
+sector: Data Center
+tickers: LUMN, CCI, AMT, ZAYO
+
+!! Description
+Facility-level dependency for building and operating AI data centers.
+
+!! Example tickers / companies
+LUMN, CCI, AMT, ZAYO
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: AI Data Center]]
+
+!! Related nodes
+[[AI Supply Chain: AI Data Center]]
+
+!! Mermaid label
+`Fiber Backhaul / Internet Exchanges`

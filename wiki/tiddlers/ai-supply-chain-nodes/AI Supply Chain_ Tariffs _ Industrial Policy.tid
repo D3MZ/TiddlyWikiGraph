@@ -1,0 +1,26 @@
+title: AI Supply Chain: Tariffs / Industrial Policy
+tags: [[AI Supply Chain Node]] [[Capital / Policy]]
+type: text/vnd.tiddlywiki
+node-id: TradePolicy
+sector: Capital / Policy
+tickers: N/A — policy
+
+!! Description
+Policy and institutional constraints that shape access, costs, and deployment for tariffs / industrial policy.
+
+!! Example tickers / companies
+N/A — policy
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Mines]] [[AI Supply Chain: Semicap Equipment]]
+
+!! Related nodes
+[[AI Supply Chain: Mines]] [[AI Supply Chain: Semicap Equipment]]
+
+!! Mermaid label
+`Tariffs / Industrial Policy`

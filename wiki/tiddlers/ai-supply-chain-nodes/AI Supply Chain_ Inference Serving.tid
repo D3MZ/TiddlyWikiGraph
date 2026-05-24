@@ -1,0 +1,26 @@
+title: AI Supply Chain: Inference Serving
+tags: [[AI Supply Chain Node]] [[Demand / End Markets]]
+type: text/vnd.tiddlywiki
+node-id: Inference
+sector: Demand / End Markets
+tickers: NVDA, AMD, GOOGL, AMZN, MSFT, ORCL
+
+!! Description
+The production serving layer that runs trained models for live users.
+
+!! Example tickers / companies
+NVDA, AMD, GOOGL, AMZN, MSFT, ORCL
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Foundation Models]] [[AI Supply Chain: ML Frameworks]] [[AI Supply Chain: Cluster Schedulers / Orchestration]] [[AI Supply Chain: AI Compute Cluster]]
+
+!! Downstream outputs
+None
+
+!! Related nodes
+[[AI Supply Chain: AI Compute Cluster]] [[AI Supply Chain: ML Frameworks]] [[AI Supply Chain: Foundation Models]] [[AI Supply Chain: Cluster Schedulers / Orchestration]]
+
+!! Mermaid label
+`Inference Serving`

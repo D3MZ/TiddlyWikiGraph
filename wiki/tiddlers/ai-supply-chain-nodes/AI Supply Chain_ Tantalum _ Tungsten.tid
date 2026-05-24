@@ -1,0 +1,26 @@
+title: AI Supply Chain: Tantalum / Tungsten
+tags: [[AI Supply Chain Node]] [[Raw Materials]]
+type: text/vnd.tiddlywiki
+node-id: TantalumTungsten
+sector: Raw Materials
+tickers: ALB?; CMOC, China Moly, Global Tungsten
+
+!! Description
+Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+
+!! Example tickers / companies
+ALB?; CMOC, China Moly, Global Tungsten
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Downstream outputs
+[[AI Supply Chain: Semicap Equipment]]
+
+!! Related nodes
+[[AI Supply Chain: Refining / Smelting / Purification]] [[AI Supply Chain: Semicap Equipment]]
+
+!! Mermaid label
+`Tantalum / Tungsten`

@@ -1,0 +1,26 @@
+title: AI Supply Chain: Chip Design
+tags: [[AI Supply Chain Node]] [[Chip Design]]
+type: text/vnd.tiddlywiki
+node-id: ChipDesign
+sector: Chip Design
+tickers: NVDA, AMD, AVGO, MRVL, QCOM, ARM
+
+!! Description
+Design-stage capability or tooling needed before AI silicon can be manufactured.
+
+!! Example tickers / companies
+NVDA, AMD, AVGO, MRVL, QCOM, ARM
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: EDA Software]] [[AI Supply Chain: Semiconductor IP]] [[AI Supply Chain: Chip Architects / Verification Engineers]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Accelerators]] [[AI Supply Chain: CPUs]] [[AI Supply Chain: NICs / DPUs]] [[AI Supply Chain: Switch ASICs / Switch Systems]] [[AI Supply Chain: Foundry / Logic Wafer Fab]]
+
+!! Related nodes
+[[AI Supply Chain: AI Accelerators]] [[AI Supply Chain: CPUs]] [[AI Supply Chain: Chip Architects / Verification Engineers]] [[AI Supply Chain: EDA Software]] [[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Semiconductor IP]] [[AI Supply Chain: NICs / DPUs]] [[AI Supply Chain: Switch ASICs / Switch Systems]]
+
+!! Mermaid label
+`Chip Design`

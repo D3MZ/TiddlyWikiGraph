@@ -1,0 +1,26 @@
+title: AI Supply Chain: Silicon Wafers
+tags: [[AI Supply Chain Node]] [[Semiconductor Manufacturing]]
+type: text/vnd.tiddlywiki
+node-id: Wafer
+sector: Semiconductor Manufacturing
+tickers: WOLF, SUMCO, Shin-Etsu, Siltronic
+
+!! Description
+Semiconductor supply-chain component needed to manufacture AI chips and memory.
+
+!! Example tickers / companies
+WOLF, SUMCO, Shin-Etsu, Siltronic
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: High-purity Silicon]]
+
+!! Downstream outputs
+[[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Memory Fabs]]
+
+!! Related nodes
+[[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Memory Fabs]] [[AI Supply Chain: High-purity Silicon]]
+
+!! Mermaid label
+`Silicon Wafers`

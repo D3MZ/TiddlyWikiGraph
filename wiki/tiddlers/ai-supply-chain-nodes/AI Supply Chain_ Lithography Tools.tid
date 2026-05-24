@@ -1,0 +1,26 @@
+title: AI Supply Chain: Lithography Tools
+tags: [[AI Supply Chain Node]] [[Semiconductor Manufacturing]]
+type: text/vnd.tiddlywiki
+node-id: Lithography
+sector: Semiconductor Manufacturing
+tickers: ASML, Nikon, Canon
+
+!! Description
+Semiconductor supply-chain component needed to manufacture AI chips and memory.
+
+!! Example tickers / companies
+ASML, Nikon, Canon
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Export Controls / Sanctions]]
+
+!! Downstream outputs
+[[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Memory Fabs]]
+
+!! Related nodes
+[[AI Supply Chain: Export Controls / Sanctions]] [[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Memory Fabs]]
+
+!! Mermaid label
+`Lithography Tools — EUV / DUV`

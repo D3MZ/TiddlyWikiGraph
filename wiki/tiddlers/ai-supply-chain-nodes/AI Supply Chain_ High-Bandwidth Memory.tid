@@ -1,0 +1,26 @@
+title: AI Supply Chain: High-Bandwidth Memory
+tags: [[AI Supply Chain Node]] [[Compute Cluster]]
+type: text/vnd.tiddlywiki
+node-id: HBM
+sector: Compute Cluster
+tickers: MU, Samsung, SK Hynix
+
+!! Description
+Compute-infrastructure component used to assemble and operate AI clusters.
+
+!! Example tickers / companies
+MU, Samsung, SK Hynix
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Memory Fabs]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Accelerators]] [[AI Supply Chain: Advanced Packaging]]
+
+!! Related nodes
+[[AI Supply Chain: AI Accelerators]] [[AI Supply Chain: Advanced Packaging]] [[AI Supply Chain: Memory Fabs]]
+
+!! Mermaid label
+`High-Bandwidth Memory`

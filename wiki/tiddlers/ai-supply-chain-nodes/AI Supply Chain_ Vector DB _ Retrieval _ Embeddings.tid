@@ -1,0 +1,26 @@
+title: AI Supply Chain: Vector DB / Retrieval / Embeddings
+tags: [[AI Supply Chain Node]] [[Software Stack]]
+type: text/vnd.tiddlywiki
+node-id: VectorDB
+sector: Software Stack
+tickers: MDB, ESTC, SNOW, ORCL
+
+!! Description
+Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+
+!! Example tickers / companies
+MDB, ESTC, SNOW, ORCL
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Enterprise / private data]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Applications]]
+
+!! Related nodes
+[[AI Supply Chain: AI Applications]] [[AI Supply Chain: Enterprise / private data]]
+
+!! Mermaid label
+`Vector DB / Retrieval / Embeddings`

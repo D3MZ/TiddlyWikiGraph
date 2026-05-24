@@ -1,0 +1,26 @@
+title: AI Supply Chain: Algorithms / Architectures
+tags: [[AI Supply Chain Node]] [[Model Inputs]]
+type: text/vnd.tiddlywiki
+node-id: Algorithms
+sector: Model Inputs
+tickers: NVDA, MSFT, GOOGL, META, AMZN
+
+!! Description
+Input to model development that affects capability, safety, cost, or differentiation.
+
+!! Example tickers / companies
+NVDA, MSFT, GOOGL, META, AMZN
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]]
+
+!! Related nodes
+[[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]]
+
+!! Mermaid label
+`Algorithms / Architectures — Transformers, MoE, diffusion, retrieval, agents`

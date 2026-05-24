@@ -1,0 +1,26 @@
+title: AI Supply Chain: AI Accelerators
+tags: [[AI Supply Chain Node]] [[Compute Cluster]]
+type: text/vnd.tiddlywiki
+node-id: Accelerators
+sector: Compute Cluster
+tickers: NVDA, AMD, GOOGL, INTC, AVGO, MRVL
+
+!! Description
+Specialized chips that dominate training and high-throughput inference economics.
+
+!! Example tickers / companies
+NVDA, AMD, GOOGL, INTC, AVGO, MRVL
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: High-Bandwidth Memory]] [[AI Supply Chain: Firmware / Drivers]] [[AI Supply Chain: Chip Design]] [[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Advanced Packaging]] [[AI Supply Chain: Wafer Sort / Final Test / Burn-in]] [[AI Supply Chain: Export Controls / Sanctions]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Servers]]
+
+!! Related nodes
+[[AI Supply Chain: Advanced Packaging]] [[AI Supply Chain: Chip Design]] [[AI Supply Chain: Export Controls / Sanctions]] [[AI Supply Chain: Firmware / Drivers]] [[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: High-Bandwidth Memory]] [[AI Supply Chain: AI Servers]] [[AI Supply Chain: Wafer Sort / Final Test / Burn-in]]
+
+!! Mermaid label
+`AI Accelerators — GPU / TPU / ASIC`

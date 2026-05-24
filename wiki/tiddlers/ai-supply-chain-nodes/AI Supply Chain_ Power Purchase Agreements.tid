@@ -1,0 +1,26 @@
+title: AI Supply Chain: Power Purchase Agreements
+tags: [[AI Supply Chain Node]] [[Energy]]
+type: text/vnd.tiddlywiki
+node-id: PPAs
+sector: Energy
+tickers: NEE, BEP, CWEN, AES
+
+!! Description
+Energy-system component that determines whether AI infrastructure can be powered at scale.
+
+!! Example tickers / companies
+NEE, BEP, CWEN, AES
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: AI Data Center]]
+
+!! Related nodes
+[[AI Supply Chain: AI Data Center]]
+
+!! Mermaid label
+`Power Purchase Agreements`

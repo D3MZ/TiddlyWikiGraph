@@ -1,0 +1,26 @@
+title: AI Supply Chain: Model APIs / SaaS Platforms
+tags: [[AI Supply Chain Node]] [[Demand / End Markets]]
+type: text/vnd.tiddlywiki
+node-id: APIs
+sector: Demand / End Markets
+tickers: MSFT, GOOGL, AMZN, META, ORCL, IBM
+
+!! Description
+Commercial interfaces that expose models and tools to developers or enterprises.
+
+!! Example tickers / companies
+MSFT, GOOGL, AMZN, META, ORCL, IBM
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+None
+
+!! Related nodes
+None
+
+!! Mermaid label
+`Model APIs / SaaS Platforms`

@@ -1,0 +1,26 @@
+title: AI Supply Chain: Enterprise / private data
+tags: [[AI Supply Chain Node]] [[Model Inputs]]
+type: text/vnd.tiddlywiki
+node-id: EnterpriseData
+sector: Model Inputs
+tickers: SNOW, DDOG, MDB, ORCL, SAP, CRM
+
+!! Description
+Input to model development that affects capability, safety, cost, or differentiation.
+
+!! Example tickers / companies
+SNOW, DDOG, MDB, ORCL, SAP, CRM
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Training / Evaluation Data]] [[AI Supply Chain: Vector DB / Retrieval / Embeddings]]
+
+!! Related nodes
+[[AI Supply Chain: Training / Evaluation Data]] [[AI Supply Chain: Vector DB / Retrieval / Embeddings]]
+
+!! Mermaid label
+`Enterprise / private data`

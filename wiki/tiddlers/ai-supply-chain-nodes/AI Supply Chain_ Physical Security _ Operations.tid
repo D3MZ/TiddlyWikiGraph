@@ -1,0 +1,26 @@
+title: AI Supply Chain: Physical Security / Operations
+tags: [[AI Supply Chain Node]] [[Data Center]]
+type: text/vnd.tiddlywiki
+node-id: Security
+sector: Data Center
+tickers: ADT, ALLE, JCI
+
+!! Description
+Facility-level dependency for building and operating AI data centers.
+
+!! Example tickers / companies
+ADT, ALLE, JCI
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: AI Data Center]]
+
+!! Related nodes
+[[AI Supply Chain: AI Data Center]]
+
+!! Mermaid label
+`Physical Security / Operations`

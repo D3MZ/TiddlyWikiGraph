@@ -1,0 +1,26 @@
+title: AI Supply Chain: Hyperscalers / Cloud Providers
+tags: [[AI Supply Chain Node]] [[Capital / Policy]]
+type: text/vnd.tiddlywiki
+node-id: Clouds
+sector: Capital / Policy
+tickers: AMZN, MSFT, GOOGL, ORCL, IBM
+
+!! Description
+Policy and institutional constraints that shape access, costs, and deployment for hyperscalers / cloud providers.
+
+!! Example tickers / companies
+AMZN, MSFT, GOOGL, ORCL, IBM
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Data Center]] [[AI Supply Chain: AI Compute Cluster]] [[AI Supply Chain: AI Applications]]
+
+!! Related nodes
+[[AI Supply Chain: AI Applications]] [[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]] [[AI Supply Chain: AI Compute Cluster]] [[AI Supply Chain: AI Data Center]]
+
+!! Mermaid label
+`Hyperscalers / Cloud Providers`

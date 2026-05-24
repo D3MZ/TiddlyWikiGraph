@@ -1,0 +1,26 @@
+title: AI Supply Chain: Electric Grid
+tags: [[AI Supply Chain Node]] [[Energy]]
+type: text/vnd.tiddlywiki
+node-id: Grid
+sector: Energy
+tickers: NEE, SO, DUK, AEP, EXC
+
+!! Description
+The utility-scale electricity system feeding AI data centers.
+
+!! Example tickers / companies
+NEE, SO, DUK, AEP, EXC
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Power Generation]] [[AI Supply Chain: Transmission Lines]] [[AI Supply Chain: Grid Batteries]] [[AI Supply Chain: Energy Regulation / Utility Regulation]]
+
+!! Downstream outputs
+[[AI Supply Chain: Electrical Infrastructure]]
+
+!! Related nodes
+[[AI Supply Chain: Grid Batteries]] [[AI Supply Chain: Energy Regulation / Utility Regulation]] [[AI Supply Chain: Power Generation]] [[AI Supply Chain: Electrical Infrastructure]] [[AI Supply Chain: Transmission Lines]]
+
+!! Mermaid label
+`Electric Grid`

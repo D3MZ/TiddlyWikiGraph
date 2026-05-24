@@ -1,0 +1,26 @@
+title: AI Supply Chain: Foundry / Logic Wafer Fab
+tags: [[AI Supply Chain Node]] [[Semiconductor Manufacturing]]
+type: text/vnd.tiddlywiki
+node-id: Foundry
+sector: Semiconductor Manufacturing
+tickers: TSM, INTC, Samsung
+
+!! Description
+Advanced logic fabs that manufacture many AI chips for fabless designers.
+
+!! Example tickers / companies
+TSM, INTC, Samsung
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Chip Design]] [[AI Supply Chain: Silicon Wafers]] [[AI Supply Chain: Lithography Tools]] [[AI Supply Chain: Semicap Equipment]] [[AI Supply Chain: Photoresists]] [[AI Supply Chain: Specialty Gases]] [[AI Supply Chain: Wet Chemicals / Slurries]] [[AI Supply Chain: Ultrapure Water]] [[AI Supply Chain: Photomasks]] [[AI Supply Chain: Process Yield / Metrology]] [[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]] [[AI Supply Chain: Export Controls / Sanctions]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Accelerators]] [[AI Supply Chain: CPUs]] [[AI Supply Chain: NICs / DPUs]] [[AI Supply Chain: Switch ASICs / Switch Systems]] [[AI Supply Chain: Advanced Packaging]]
+
+!! Related nodes
+[[AI Supply Chain: AI Accelerators]] [[AI Supply Chain: Advanced Packaging]] [[AI Supply Chain: CPUs]] [[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]] [[AI Supply Chain: Wet Chemicals / Slurries]] [[AI Supply Chain: Chip Design]] [[AI Supply Chain: Export Controls / Sanctions]] [[AI Supply Chain: Specialty Gases]] [[AI Supply Chain: Lithography Tools]] [[AI Supply Chain: Photomasks]] [[AI Supply Chain: NICs / DPUs]] [[AI Supply Chain: Photoresists]] [[AI Supply Chain: Semicap Equipment]] [[AI Supply Chain: Switch ASICs / Switch Systems]] [[AI Supply Chain: Ultrapure Water]] [[AI Supply Chain: Silicon Wafers]] [[AI Supply Chain: Process Yield / Metrology]]
+
+!! Mermaid label
+`Foundry / Logic Wafer Fab`

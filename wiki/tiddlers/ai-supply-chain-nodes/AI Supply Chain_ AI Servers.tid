@@ -1,0 +1,26 @@
+title: AI Supply Chain: AI Servers
+tags: [[AI Supply Chain Node]] [[Compute Cluster]]
+type: text/vnd.tiddlywiki
+node-id: Servers
+sector: Compute Cluster
+tickers: SMCI, DELL, HPE, Lenovo, WDC
+
+!! Description
+Compute-infrastructure component used to assemble and operate AI clusters.
+
+!! Example tickers / companies
+SMCI, DELL, HPE, Lenovo, WDC
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: AI Accelerators]] [[AI Supply Chain: CPUs]] [[AI Supply Chain: Server DRAM]] [[AI Supply Chain: Racks / Power Shelves / Cabling]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Compute Cluster]]
+
+!! Related nodes
+[[AI Supply Chain: AI Accelerators]] [[AI Supply Chain: CPUs]] [[AI Supply Chain: AI Compute Cluster]] [[AI Supply Chain: Server DRAM]] [[AI Supply Chain: Racks / Power Shelves / Cabling]]
+
+!! Mermaid label
+`AI Servers`

@@ -1,0 +1,121 @@
+title: AI Supply Chain Graph Index
+tags: [[GettingStarted]] [[AI Supply Chain]]
+type: text/vnd.tiddlywiki
+
+This index breaks the Mermaid supply-chain diagram into explorable linked tiddlers.
+
+See also: [[AI Supply Chain Mermaid Diagram]] and [[AI Supply Chain Flowchart]].
+
+!! Demand / End Markets
+* [[Users / Enterprises / Governments|AI Supply Chain: Users / Enterprises / Governments]] — End customers and institutions whose demand pulls the rest of the AI stack into existence.
+* [[AI Applications|AI Supply Chain: AI Applications]] — Products and workflows where users experience AI value directly.
+* [[Model APIs / SaaS Platforms|AI Supply Chain: Model APIs / SaaS Platforms]] — Commercial interfaces that expose models and tools to developers or enterprises.
+* [[Inference Serving|AI Supply Chain: Inference Serving]] — The production serving layer that runs trained models for live users.
+* [[Pretraining / Fine-tuning / RLHF / Evaluation|AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]] — The compute- and data-intensive process of creating or improving models.
+* [[Foundation Models|AI Supply Chain: Foundation Models]] — Reusable AI systems that encode learned capabilities and power downstream products.
+
+!! Model Inputs
+* [[Training / Evaluation Data|AI Supply Chain: Training / Evaluation Data]] — Input to model development that affects capability, safety, cost, or differentiation.
+* [[Human preference data|AI Supply Chain: Human preference data]] — Input to model development that affects capability, safety, cost, or differentiation.
+* [[Synthetic data|AI Supply Chain: Synthetic data]] — Input to model development that affects capability, safety, cost, or differentiation.
+* [[Enterprise / private data|AI Supply Chain: Enterprise / private data]] — Input to model development that affects capability, safety, cost, or differentiation.
+* [[Public web / code / papers|AI Supply Chain: Public web / code / papers]] — Input to model development that affects capability, safety, cost, or differentiation.
+* [[Licensed data|AI Supply Chain: Licensed data]] — Input to model development that affects capability, safety, cost, or differentiation.
+* [[Algorithms / Architectures|AI Supply Chain: Algorithms / Architectures]] — Input to model development that affects capability, safety, cost, or differentiation.
+* [[Researchers / ML Engineers|AI Supply Chain: Researchers / ML Engineers]] — Input to model development that affects capability, safety, cost, or differentiation.
+* [[Evaluation / Safety / Red teaming|AI Supply Chain: Evaluation / Safety / Red teaming]] — Input to model development that affects capability, safety, cost, or differentiation.
+
+!! Software Stack
+* [[ML Frameworks|AI Supply Chain: ML Frameworks]] — Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+* [[Compilers / Runtime|AI Supply Chain: Compilers / Runtime]] — Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+* [[GPU Kernels / Collective Communication|AI Supply Chain: GPU Kernels / Collective Communication]] — Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+* [[Cluster Schedulers / Orchestration|AI Supply Chain: Cluster Schedulers / Orchestration]] — Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+* [[Monitoring / Logging / Security|AI Supply Chain: Monitoring / Logging / Security]] — Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+* [[Vector DB / Retrieval / Embeddings|AI Supply Chain: Vector DB / Retrieval / Embeddings]] — Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+
+!! Compute Cluster
+* [[AI Compute Cluster|AI Supply Chain: AI Compute Cluster]] — The integrated fleet of servers, accelerators, storage, and network fabric used for AI workloads.
+* [[AI Servers|AI Supply Chain: AI Servers]] — Compute-infrastructure component used to assemble and operate AI clusters.
+* [[AI Accelerators|AI Supply Chain: AI Accelerators]] — Specialized chips that dominate training and high-throughput inference economics.
+* [[CPUs|AI Supply Chain: CPUs]] — Compute-infrastructure component used to assemble and operate AI clusters.
+* [[High-Bandwidth Memory|AI Supply Chain: High-Bandwidth Memory]] — Compute-infrastructure component used to assemble and operate AI clusters.
+* [[Server DRAM|AI Supply Chain: Server DRAM]] — Compute-infrastructure component used to assemble and operate AI clusters.
+* [[NVMe SSD / HDD Storage|AI Supply Chain: NVMe SSD / HDD Storage]] — Compute-infrastructure component used to assemble and operate AI clusters.
+* [[Networking Fabric|AI Supply Chain: Networking Fabric]] — Compute-infrastructure component used to assemble and operate AI clusters.
+* [[NICs / DPUs|AI Supply Chain: NICs / DPUs]] — Compute-infrastructure component used to assemble and operate AI clusters.
+* [[Switch ASICs / Switch Systems|AI Supply Chain: Switch ASICs / Switch Systems]] — Compute-infrastructure component used to assemble and operate AI clusters.
+* [[Optical Transceivers / Lasers|AI Supply Chain: Optical Transceivers / Lasers]] — Compute-infrastructure component used to assemble and operate AI clusters.
+* [[Racks / Power Shelves / Cabling|AI Supply Chain: Racks / Power Shelves / Cabling]] — Compute-infrastructure component used to assemble and operate AI clusters.
+
+!! Chip Design
+* [[Chip Design|AI Supply Chain: Chip Design]] — Design-stage capability or tooling needed before AI silicon can be manufactured.
+* [[EDA Software|AI Supply Chain: EDA Software]] — Design-stage capability or tooling needed before AI silicon can be manufactured.
+* [[Semiconductor IP|AI Supply Chain: Semiconductor IP]] — Design-stage capability or tooling needed before AI silicon can be manufactured.
+* [[Firmware / Drivers|AI Supply Chain: Firmware / Drivers]] — Design-stage capability or tooling needed before AI silicon can be manufactured.
+* [[Chip Architects / Verification Engineers|AI Supply Chain: Chip Architects / Verification Engineers]] — Design-stage capability or tooling needed before AI silicon can be manufactured.
+
+!! Semiconductor Manufacturing
+* [[Foundry / Logic Wafer Fab|AI Supply Chain: Foundry / Logic Wafer Fab]] — Advanced logic fabs that manufacture many AI chips for fabless designers.
+* [[Memory Fabs|AI Supply Chain: Memory Fabs]] — Semiconductor supply-chain component needed to manufacture AI chips and memory.
+* [[Silicon Wafers|AI Supply Chain: Silicon Wafers]] — Semiconductor supply-chain component needed to manufacture AI chips and memory.
+* [[Lithography Tools|AI Supply Chain: Lithography Tools]] — Semiconductor supply-chain component needed to manufacture AI chips and memory.
+* [[Semicap Equipment|AI Supply Chain: Semicap Equipment]] — Semiconductor supply-chain component needed to manufacture AI chips and memory.
+* [[Photoresists|AI Supply Chain: Photoresists]] — Semiconductor supply-chain component needed to manufacture AI chips and memory.
+* [[Specialty Gases|AI Supply Chain: Specialty Gases]] — Semiconductor supply-chain component needed to manufacture AI chips and memory.
+* [[Wet Chemicals / Slurries|AI Supply Chain: Wet Chemicals / Slurries]] — Semiconductor supply-chain component needed to manufacture AI chips and memory.
+* [[Ultrapure Water|AI Supply Chain: Ultrapure Water]] — Semiconductor supply-chain component needed to manufacture AI chips and memory.
+* [[Photomasks|AI Supply Chain: Photomasks]] — Semiconductor supply-chain component needed to manufacture AI chips and memory.
+* [[Process Yield / Metrology|AI Supply Chain: Process Yield / Metrology]] — Semiconductor supply-chain component needed to manufacture AI chips and memory.
+
+!! Advanced Packaging
+* [[Advanced Packaging|AI Supply Chain: Advanced Packaging]] — Packaging capacity that connects logic dies and HBM at very high bandwidth.
+* [[ABF / Advanced Package Substrates|AI Supply Chain: ABF / Advanced Package Substrates]] — Part of the AI supply-chain graph connected to abf / advanced package substrates.
+* [[Silicon Interposers / Bridges|AI Supply Chain: Silicon Interposers / Bridges]] — Part of the AI supply-chain graph connected to silicon interposers / bridges.
+* [[Wafer Sort / Final Test / Burn-in|AI Supply Chain: Wafer Sort / Final Test / Burn-in]] — Part of the AI supply-chain graph connected to wafer sort / final test / burn-in.
+* [[OSAT / Assembly Providers|AI Supply Chain: OSAT / Assembly Providers]] — Part of the AI supply-chain graph connected to osat / assembly providers.
+
+!! Data Center
+* [[AI Data Center|AI Supply Chain: AI Data Center]] — Physical facilities that house AI compute clusters and connect them to power, cooling, and networks.
+* [[Land / Zoning / Permits|AI Supply Chain: Land / Zoning / Permits]] — Facility-level dependency for building and operating AI data centers.
+* [[Construction / EPC|AI Supply Chain: Construction / EPC]] — Facility-level dependency for building and operating AI data centers.
+* [[Electrical Infrastructure|AI Supply Chain: Electrical Infrastructure]] — Facility-level dependency for building and operating AI data centers.
+* [[Cooling|AI Supply Chain: Cooling]] — Facility-level dependency for building and operating AI data centers.
+* [[Water / Coolant / Heat Reuse|AI Supply Chain: Water / Coolant / Heat Reuse]] — Facility-level dependency for building and operating AI data centers.
+* [[Fiber Backhaul / Internet Exchanges|AI Supply Chain: Fiber Backhaul / Internet Exchanges]] — Facility-level dependency for building and operating AI data centers.
+* [[Physical Security / Operations|AI Supply Chain: Physical Security / Operations]] — Facility-level dependency for building and operating AI data centers.
+* [[Backup Power|AI Supply Chain: Backup Power]] — Facility-level dependency for building and operating AI data centers.
+
+!! Energy
+* [[Electric Grid|AI Supply Chain: Electric Grid]] — The utility-scale electricity system feeding AI data centers.
+* [[Power Generation|AI Supply Chain: Power Generation]] — Energy-system component that determines whether AI infrastructure can be powered at scale.
+* [[Transmission Lines|AI Supply Chain: Transmission Lines]] — Energy-system component that determines whether AI infrastructure can be powered at scale.
+* [[Grid Interconnection Queue|AI Supply Chain: Grid Interconnection Queue]] — Energy-system component that determines whether AI infrastructure can be powered at scale.
+* [[Large Transformers|AI Supply Chain: Large Transformers]] — Energy-system component that determines whether AI infrastructure can be powered at scale.
+* [[Switchgear / Breakers|AI Supply Chain: Switchgear / Breakers]] — Energy-system component that determines whether AI infrastructure can be powered at scale.
+* [[Power Purchase Agreements|AI Supply Chain: Power Purchase Agreements]] — Energy-system component that determines whether AI infrastructure can be powered at scale.
+* [[Natural Gas Supply|AI Supply Chain: Natural Gas Supply]] — Energy-system component that determines whether AI infrastructure can be powered at scale.
+* [[Uranium / Nuclear Fuel|AI Supply Chain: Uranium / Nuclear Fuel]] — Energy-system component that determines whether AI infrastructure can be powered at scale.
+* [[Solar / Wind Equipment|AI Supply Chain: Solar / Wind Equipment]] — Energy-system component that determines whether AI infrastructure can be powered at scale.
+* [[Grid Batteries|AI Supply Chain: Grid Batteries]] — Energy-system component that determines whether AI infrastructure can be powered at scale.
+
+!! Raw Materials
+* [[Mines|AI Supply Chain: Mines]] — Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+* [[Refining / Smelting / Purification|AI Supply Chain: Refining / Smelting / Purification]] — Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+* [[Copper|AI Supply Chain: Copper]] — Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+* [[High-purity Silicon|AI Supply Chain: High-purity Silicon]] — Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+* [[Aluminum / Steel|AI Supply Chain: Aluminum / Steel]] — Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+* [[Rare Earths|AI Supply Chain: Rare Earths]] — Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+* [[Gallium / Germanium|AI Supply Chain: Gallium / Germanium]] — Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+* [[Tantalum / Tungsten|AI Supply Chain: Tantalum / Tungsten]] — Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+* [[Lithium / Nickel / Cobalt|AI Supply Chain: Lithium / Nickel / Cobalt]] — Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+* [[PGMs / Palladium|AI Supply Chain: PGMs / Palladium]] — Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+* [[Industrial Chemical Feedstocks|AI Supply Chain: Industrial Chemical Feedstocks]] — Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+
+!! Capital / Policy
+* [[Capital Markets / Debt / Equity / Cloud Commitments|AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]] — Financing and cloud purchase commitments that fund data centers, chips, fabs, and power.
+* [[Hyperscalers / Cloud Providers|AI Supply Chain: Hyperscalers / Cloud Providers]] — Policy and institutional constraints that shape access, costs, and deployment for hyperscalers / cloud providers.
+* [[Export Controls / Sanctions|AI Supply Chain: Export Controls / Sanctions]] — Policy and institutional constraints that shape access, costs, and deployment for export controls / sanctions.
+* [[Privacy / Copyright / Data Regulation|AI Supply Chain: Privacy / Copyright / Data Regulation]] — Policy and institutional constraints that shape access, costs, and deployment for privacy / copyright / data regulation.
+* [[Energy Regulation / Utility Regulation|AI Supply Chain: Energy Regulation / Utility Regulation]] — Policy and institutional constraints that shape access, costs, and deployment for energy regulation / utility regulation.
+* [[Tariffs / Industrial Policy|AI Supply Chain: Tariffs / Industrial Policy]] — Policy and institutional constraints that shape access, costs, and deployment for tariffs / industrial policy.
+* [[Government Procurement|AI Supply Chain: Government Procurement]] — Policy and institutional constraints that shape access, costs, and deployment for government procurement.

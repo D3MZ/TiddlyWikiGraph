@@ -1,0 +1,26 @@
+title: AI Supply Chain: EDA Software
+tags: [[AI Supply Chain Node]] [[Chip Design]]
+type: text/vnd.tiddlywiki
+node-id: EDA
+sector: Chip Design
+tickers: SNPS, CDNS, ANSS, Siemens
+
+!! Description
+Design-stage capability or tooling needed before AI silicon can be manufactured.
+
+!! Example tickers / companies
+SNPS, CDNS, ANSS, Siemens
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Chip Design]]
+
+!! Related nodes
+[[AI Supply Chain: Chip Design]]
+
+!! Mermaid label
+`EDA Software`

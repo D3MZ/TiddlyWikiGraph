@@ -1,0 +1,26 @@
+title: AI Supply Chain: Power Generation
+tags: [[AI Supply Chain Node]] [[Energy]]
+type: text/vnd.tiddlywiki
+node-id: Generation
+sector: Energy
+tickers: NEE, SO, DUK, CEG, VST
+
+!! Description
+Energy-system component that determines whether AI infrastructure can be powered at scale.
+
+!! Example tickers / companies
+NEE, SO, DUK, CEG, VST
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Natural Gas Supply]] [[AI Supply Chain: Uranium / Nuclear Fuel]] [[AI Supply Chain: Solar / Wind Equipment]]
+
+!! Downstream outputs
+[[AI Supply Chain: Electric Grid]]
+
+!! Related nodes
+[[AI Supply Chain: Natural Gas Supply]] [[AI Supply Chain: Electric Grid]] [[AI Supply Chain: Solar / Wind Equipment]] [[AI Supply Chain: Uranium / Nuclear Fuel]]
+
+!! Mermaid label
+`Power Generation — Gas, nuclear, renewables, hydro`

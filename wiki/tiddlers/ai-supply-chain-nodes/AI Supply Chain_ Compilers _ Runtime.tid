@@ -1,0 +1,26 @@
+title: AI Supply Chain: Compilers / Runtime
+tags: [[AI Supply Chain Node]] [[Software Stack]]
+type: text/vnd.tiddlywiki
+node-id: Compilers
+sector: Software Stack
+tickers: NVDA, AMD, INTC, GOOGL
+
+!! Description
+Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+
+!! Example tickers / companies
+NVDA, AMD, INTC, GOOGL
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: GPU Kernels / Collective Communication]]
+
+!! Downstream outputs
+[[AI Supply Chain: ML Frameworks]]
+
+!! Related nodes
+[[AI Supply Chain: ML Frameworks]] [[AI Supply Chain: GPU Kernels / Collective Communication]]
+
+!! Mermaid label
+`Compilers / Runtime — CUDA, ROCm, XLA, TensorRT, vLLM-like serving`

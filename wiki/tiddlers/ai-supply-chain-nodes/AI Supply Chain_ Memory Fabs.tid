@@ -1,0 +1,26 @@
+title: AI Supply Chain: Memory Fabs
+tags: [[AI Supply Chain Node]] [[Semiconductor Manufacturing]]
+type: text/vnd.tiddlywiki
+node-id: MemoryFab
+sector: Semiconductor Manufacturing
+tickers: MU, Samsung, SK Hynix
+
+!! Description
+Semiconductor supply-chain component needed to manufacture AI chips and memory.
+
+!! Example tickers / companies
+MU, Samsung, SK Hynix
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Silicon Wafers]] [[AI Supply Chain: Lithography Tools]] [[AI Supply Chain: Semicap Equipment]] [[AI Supply Chain: Process Yield / Metrology]] [[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]]
+
+!! Downstream outputs
+[[AI Supply Chain: High-Bandwidth Memory]] [[AI Supply Chain: Server DRAM]] [[AI Supply Chain: NVMe SSD / HDD Storage]]
+
+!! Related nodes
+[[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]] [[AI Supply Chain: Server DRAM]] [[AI Supply Chain: High-Bandwidth Memory]] [[AI Supply Chain: Lithography Tools]] [[AI Supply Chain: Semicap Equipment]] [[AI Supply Chain: NVMe SSD / HDD Storage]] [[AI Supply Chain: Silicon Wafers]] [[AI Supply Chain: Process Yield / Metrology]]
+
+!! Mermaid label
+`Memory Fabs`

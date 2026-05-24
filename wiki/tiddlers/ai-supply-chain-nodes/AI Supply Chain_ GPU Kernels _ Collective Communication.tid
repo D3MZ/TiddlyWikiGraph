@@ -1,0 +1,26 @@
+title: AI Supply Chain: GPU Kernels / Collective Communication
+tags: [[AI Supply Chain Node]] [[Software Stack]]
+type: text/vnd.tiddlywiki
+node-id: Kernels
+sector: Software Stack
+tickers: NVDA, AMD, AVGO, MRVL
+
+!! Description
+Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+
+!! Example tickers / companies
+NVDA, AMD, AVGO, MRVL
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Compilers / Runtime]]
+
+!! Related nodes
+[[AI Supply Chain: Compilers / Runtime]]
+
+!! Mermaid label
+`GPU Kernels / Collective Communication`

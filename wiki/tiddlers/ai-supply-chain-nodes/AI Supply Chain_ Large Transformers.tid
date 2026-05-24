@@ -1,0 +1,26 @@
+title: AI Supply Chain: Large Transformers
+tags: [[AI Supply Chain Node]] [[Energy]]
+type: text/vnd.tiddlywiki
+node-id: Transformers
+sector: Energy
+tickers: ETN, ABBNY, SIEGY, GE Vernova
+
+!! Description
+Energy-system component that determines whether AI infrastructure can be powered at scale.
+
+!! Example tickers / companies
+ETN, ABBNY, SIEGY, GE Vernova
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Electrical Infrastructure]]
+
+!! Related nodes
+[[AI Supply Chain: Electrical Infrastructure]]
+
+!! Mermaid label
+`Large Transformers`

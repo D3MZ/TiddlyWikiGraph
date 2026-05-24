@@ -1,0 +1,26 @@
+title: AI Supply Chain: Cluster Schedulers / Orchestration
+tags: [[AI Supply Chain Node]] [[Software Stack]]
+type: text/vnd.tiddlywiki
+node-id: Schedulers
+sector: Software Stack
+tickers: MSFT, GOOGL, AMZN, IBM, RHT
+
+!! Description
+Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+
+!! Example tickers / companies
+MSFT, GOOGL, AMZN, IBM, RHT
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]] [[AI Supply Chain: Inference Serving]]
+
+!! Related nodes
+[[AI Supply Chain: Inference Serving]] [[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]]
+
+!! Mermaid label
+`Cluster Schedulers / Orchestration`

@@ -1,0 +1,26 @@
+title: AI Supply Chain: Ultrapure Water
+tags: [[AI Supply Chain Node]] [[Semiconductor Manufacturing]]
+type: text/vnd.tiddlywiki
+node-id: UPW
+sector: Semiconductor Manufacturing
+tickers: ECL, XYL, VE, SUEZ
+
+!! Description
+Semiconductor supply-chain component needed to manufacture AI chips and memory.
+
+!! Example tickers / companies
+ECL, XYL, VE, SUEZ
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Foundry / Logic Wafer Fab]]
+
+!! Related nodes
+[[AI Supply Chain: Foundry / Logic Wafer Fab]]
+
+!! Mermaid label
+`Ultrapure Water`

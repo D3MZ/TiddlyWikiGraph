@@ -1,0 +1,26 @@
+title: AI Supply Chain: Grid Batteries
+tags: [[AI Supply Chain Node]] [[Energy]]
+type: text/vnd.tiddlywiki
+node-id: Batteries
+sector: Energy
+tickers: TSLA, FLNC, ALB, SQM
+
+!! Description
+Energy-system component that determines whether AI infrastructure can be powered at scale.
+
+!! Example tickers / companies
+TSLA, FLNC, ALB, SQM
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Lithium / Nickel / Cobalt]]
+
+!! Downstream outputs
+[[AI Supply Chain: Electric Grid]]
+
+!! Related nodes
+[[AI Supply Chain: Electric Grid]] [[AI Supply Chain: Lithium / Nickel / Cobalt]]
+
+!! Mermaid label
+`Grid Batteries`

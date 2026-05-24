@@ -1,0 +1,26 @@
+title: AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation
+tags: [[AI Supply Chain Node]] [[Demand / End Markets]]
+type: text/vnd.tiddlywiki
+node-id: Training
+sector: Demand / End Markets
+tickers: NVDA, AMD, GOOGL, MSFT, AMZN, META
+
+!! Description
+The compute- and data-intensive process of creating or improving models.
+
+!! Example tickers / companies
+NVDA, AMD, GOOGL, MSFT, AMZN, META
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Human preference data]] [[AI Supply Chain: Training / Evaluation Data]] [[AI Supply Chain: Algorithms / Architectures]] [[AI Supply Chain: Researchers / ML Engineers]] [[AI Supply Chain: ML Frameworks]] [[AI Supply Chain: Cluster Schedulers / Orchestration]] [[AI Supply Chain: AI Compute Cluster]]
+
+!! Downstream outputs
+[[AI Supply Chain: Foundation Models]]
+
+!! Related nodes
+[[AI Supply Chain: Algorithms / Architectures]] [[AI Supply Chain: AI Compute Cluster]] [[AI Supply Chain: Training / Evaluation Data]] [[AI Supply Chain: ML Frameworks]] [[AI Supply Chain: Human preference data]] [[AI Supply Chain: Researchers / ML Engineers]] [[AI Supply Chain: Foundation Models]] [[AI Supply Chain: Cluster Schedulers / Orchestration]]
+
+!! Mermaid label
+`Pretraining / Fine-tuning / RLHF / Evaluation`

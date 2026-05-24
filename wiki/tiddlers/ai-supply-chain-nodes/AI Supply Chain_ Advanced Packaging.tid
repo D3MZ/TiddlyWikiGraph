@@ -1,0 +1,26 @@
+title: AI Supply Chain: Advanced Packaging
+tags: [[AI Supply Chain Node]] [[Advanced Packaging]]
+type: text/vnd.tiddlywiki
+node-id: AdvancedPackaging
+sector: Advanced Packaging
+tickers: TSM, AMKR, ASE, INTC, Samsung
+
+!! Description
+Packaging capacity that connects logic dies and HBM at very high bandwidth.
+
+!! Example tickers / companies
+TSM, AMKR, ASE, INTC, Samsung
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: High-Bandwidth Memory]] [[AI Supply Chain: ABF / Advanced Package Substrates]] [[AI Supply Chain: Silicon Interposers / Bridges]] [[AI Supply Chain: OSAT / Assembly Providers]] [[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Accelerators]]
+
+!! Related nodes
+[[AI Supply Chain: AI Accelerators]] [[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]] [[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: High-Bandwidth Memory]] [[AI Supply Chain: Silicon Interposers / Bridges]] [[AI Supply Chain: OSAT / Assembly Providers]] [[AI Supply Chain: ABF / Advanced Package Substrates]]
+
+!! Mermaid label
+`Advanced Packaging — CoWoS-like 2.5D, interposers, chiplets`

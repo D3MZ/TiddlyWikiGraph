@@ -1,0 +1,26 @@
+title: AI Supply Chain: Public web / code / papers
+tags: [[AI Supply Chain Node]] [[Model Inputs]]
+type: text/vnd.tiddlywiki
+node-id: OpenData
+sector: Model Inputs
+tickers: GOOGL, META, MSFT
+
+!! Description
+Input to model development that affects capability, safety, cost, or differentiation.
+
+!! Example tickers / companies
+GOOGL, META, MSFT
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Training / Evaluation Data]]
+
+!! Related nodes
+[[AI Supply Chain: Training / Evaluation Data]]
+
+!! Mermaid label
+`Public web / code / papers`

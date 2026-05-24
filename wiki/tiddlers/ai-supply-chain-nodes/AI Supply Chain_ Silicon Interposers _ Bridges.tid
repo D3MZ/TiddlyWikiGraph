@@ -1,0 +1,26 @@
+title: AI Supply Chain: Silicon Interposers / Bridges
+tags: [[AI Supply Chain Node]] [[Advanced Packaging]]
+type: text/vnd.tiddlywiki
+node-id: Interposers
+sector: Advanced Packaging
+tickers: TSM, UMC, Samsung
+
+!! Description
+Part of the AI supply-chain graph connected to silicon interposers / bridges.
+
+!! Example tickers / companies
+TSM, UMC, Samsung
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Advanced Packaging]]
+
+!! Related nodes
+[[AI Supply Chain: Advanced Packaging]]
+
+!! Mermaid label
+`Silicon Interposers / Bridges`

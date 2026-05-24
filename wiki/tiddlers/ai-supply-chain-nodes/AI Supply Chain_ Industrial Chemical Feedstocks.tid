@@ -1,0 +1,26 @@
+title: AI Supply Chain: Industrial Chemical Feedstocks
+tags: [[AI Supply Chain Node]] [[Raw Materials]]
+type: text/vnd.tiddlywiki
+node-id: IndustrialChem
+sector: Raw Materials
+tickers: DD, DOW, LYB, BASFY
+
+!! Description
+Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+
+!! Example tickers / companies
+DD, DOW, LYB, BASFY
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Downstream outputs
+[[AI Supply Chain: Wet Chemicals / Slurries]] [[AI Supply Chain: Specialty Gases]] [[AI Supply Chain: Photoresists]]
+
+!! Related nodes
+[[AI Supply Chain: Wet Chemicals / Slurries]] [[AI Supply Chain: Specialty Gases]] [[AI Supply Chain: Photoresists]] [[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Mermaid label
+`Industrial Chemical Feedstocks`

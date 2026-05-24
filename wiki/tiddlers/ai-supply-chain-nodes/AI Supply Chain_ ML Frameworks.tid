@@ -1,0 +1,26 @@
+title: AI Supply Chain: ML Frameworks
+tags: [[AI Supply Chain Node]] [[Software Stack]]
+type: text/vnd.tiddlywiki
+node-id: Frameworks
+sector: Software Stack
+tickers: NVDA, GOOGL, META, AMD
+
+!! Description
+Software layer that makes AI training, inference, deployment, or retrieval practical at scale.
+
+!! Example tickers / companies
+NVDA, GOOGL, META, AMD
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Compilers / Runtime]]
+
+!! Downstream outputs
+[[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]] [[AI Supply Chain: Inference Serving]]
+
+!! Related nodes
+[[AI Supply Chain: Compilers / Runtime]] [[AI Supply Chain: Inference Serving]] [[AI Supply Chain: Pretraining / Fine-tuning / RLHF / Evaluation]]
+
+!! Mermaid label
+`ML Frameworks — PyTorch, JAX, TensorFlow, Triton`

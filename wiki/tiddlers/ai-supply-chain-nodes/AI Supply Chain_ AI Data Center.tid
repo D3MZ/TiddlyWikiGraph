@@ -1,0 +1,26 @@
+title: AI Supply Chain: AI Data Center
+tags: [[AI Supply Chain Node]] [[Data Center]]
+type: text/vnd.tiddlywiki
+node-id: DataCenter
+sector: Data Center
+tickers: EQIX, DLR, VRT, ETN, DELL
+
+!! Description
+Physical facilities that house AI compute clusters and connect them to power, cooling, and networks.
+
+!! Example tickers / companies
+EQIX, DLR, VRT, ETN, DELL
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Land / Zoning / Permits]] [[AI Supply Chain: Construction / EPC]] [[AI Supply Chain: Electrical Infrastructure]] [[AI Supply Chain: Cooling]] [[AI Supply Chain: Fiber Backhaul / Internet Exchanges]] [[AI Supply Chain: Physical Security / Operations]] [[AI Supply Chain: Backup Power]] [[AI Supply Chain: Grid Interconnection Queue]] [[AI Supply Chain: Power Purchase Agreements]] [[AI Supply Chain: Copper]] [[AI Supply Chain: Aluminum / Steel]] [[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]] [[AI Supply Chain: Hyperscalers / Cloud Providers]] [[AI Supply Chain: Energy Regulation / Utility Regulation]]
+
+!! Downstream outputs
+[[AI Supply Chain: AI Compute Cluster]]
+
+!! Related nodes
+[[AI Supply Chain: Aluminum / Steel]] [[AI Supply Chain: Backup Power]] [[AI Supply Chain: Capital Markets / Debt / Equity / Cloud Commitments]] [[AI Supply Chain: Hyperscalers / Cloud Providers]] [[AI Supply Chain: AI Compute Cluster]] [[AI Supply Chain: Construction / EPC]] [[AI Supply Chain: Cooling]] [[AI Supply Chain: Copper]] [[AI Supply Chain: Energy Regulation / Utility Regulation]] [[AI Supply Chain: Fiber Backhaul / Internet Exchanges]] [[AI Supply Chain: Grid Interconnection Queue]] [[AI Supply Chain: Land / Zoning / Permits]] [[AI Supply Chain: Power Purchase Agreements]] [[AI Supply Chain: Electrical Infrastructure]] [[AI Supply Chain: Physical Security / Operations]]
+
+!! Mermaid label
+`AI Data Center`

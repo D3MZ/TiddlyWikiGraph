@@ -1,0 +1,26 @@
+title: AI Supply Chain: Solar / Wind Equipment
+tags: [[AI Supply Chain Node]] [[Energy]]
+type: text/vnd.tiddlywiki
+node-id: SolarWind
+sector: Energy
+tickers: FSLR, ENPH, VWS.CO, GE Vernova
+
+!! Description
+Energy-system component that determines whether AI infrastructure can be powered at scale.
+
+!! Example tickers / companies
+FSLR, ENPH, VWS.CO, GE Vernova
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Power Generation]]
+
+!! Related nodes
+[[AI Supply Chain: Power Generation]]
+
+!! Mermaid label
+`Solar / Wind Equipment`

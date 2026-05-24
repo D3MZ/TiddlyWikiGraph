@@ -1,0 +1,26 @@
+title: AI Supply Chain: Firmware / Drivers
+tags: [[AI Supply Chain Node]] [[Chip Design]]
+type: text/vnd.tiddlywiki
+node-id: Firmware
+sector: Chip Design
+tickers: NVDA, AMD, INTC, MRVL
+
+!! Description
+Design-stage capability or tooling needed before AI silicon can be manufactured.
+
+!! Example tickers / companies
+NVDA, AMD, INTC, MRVL
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: AI Accelerators]]
+
+!! Related nodes
+[[AI Supply Chain: AI Accelerators]]
+
+!! Mermaid label
+`Firmware / Drivers`

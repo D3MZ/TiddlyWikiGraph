@@ -1,0 +1,26 @@
+title: AI Supply Chain: Lithium / Nickel / Cobalt
+tags: [[AI Supply Chain Node]] [[Raw Materials]]
+type: text/vnd.tiddlywiki
+node-id: LithiumNickelCobalt
+sector: Raw Materials
+tickers: ALB, SQM, LAC, VALE, BHP
+
+!! Description
+Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+
+!! Example tickers / companies
+ALB, SQM, LAC, VALE, BHP
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Downstream outputs
+[[AI Supply Chain: Grid Batteries]]
+
+!! Related nodes
+[[AI Supply Chain: Grid Batteries]] [[AI Supply Chain: Refining / Smelting / Purification]]
+
+!! Mermaid label
+`Lithium / Nickel / Cobalt`

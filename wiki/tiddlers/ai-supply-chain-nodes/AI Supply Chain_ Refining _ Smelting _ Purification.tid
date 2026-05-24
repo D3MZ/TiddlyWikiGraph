@@ -1,0 +1,26 @@
+title: AI Supply Chain: Refining / Smelting / Purification
+tags: [[AI Supply Chain Node]] [[Raw Materials]]
+type: text/vnd.tiddlywiki
+node-id: Refining
+sector: Raw Materials
+tickers: FCX, SCCO, RIO, BHP
+
+!! Description
+Upstream material input for semiconductors, power equipment, batteries, optics, or data-center construction.
+
+!! Example tickers / companies
+FCX, SCCO, RIO, BHP
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Mines]]
+
+!! Downstream outputs
+[[AI Supply Chain: Copper]] [[AI Supply Chain: High-purity Silicon]] [[AI Supply Chain: Aluminum / Steel]] [[AI Supply Chain: Rare Earths]] [[AI Supply Chain: Gallium / Germanium]] [[AI Supply Chain: Tantalum / Tungsten]] [[AI Supply Chain: Lithium / Nickel / Cobalt]] [[AI Supply Chain: PGMs / Palladium]] [[AI Supply Chain: Industrial Chemical Feedstocks]]
+
+!! Related nodes
+[[AI Supply Chain: Aluminum / Steel]] [[AI Supply Chain: Copper]] [[AI Supply Chain: Gallium / Germanium]] [[AI Supply Chain: Industrial Chemical Feedstocks]] [[AI Supply Chain: Lithium / Nickel / Cobalt]] [[AI Supply Chain: Mines]] [[AI Supply Chain: PGMs / Palladium]] [[AI Supply Chain: Rare Earths]] [[AI Supply Chain: High-purity Silicon]] [[AI Supply Chain: Tantalum / Tungsten]]
+
+!! Mermaid label
+`Refining / Smelting / Purification`

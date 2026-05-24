@@ -1,0 +1,26 @@
+title: AI Supply Chain: Chip Architects / Verification Engineers
+tags: [[AI Supply Chain Node]] [[Chip Design]]
+type: text/vnd.tiddlywiki
+node-id: DesignTalent
+sector: Chip Design
+tickers: 
+
+!! Description
+Design-stage capability or tooling needed before AI silicon can be manufactured.
+
+!! Example tickers / companies
+N/A
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+None
+
+!! Downstream outputs
+[[AI Supply Chain: Chip Design]]
+
+!! Related nodes
+[[AI Supply Chain: Chip Design]]
+
+!! Mermaid label
+`Chip Architects / Verification Engineers`

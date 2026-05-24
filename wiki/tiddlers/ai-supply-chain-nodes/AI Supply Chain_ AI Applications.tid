@@ -1,0 +1,26 @@
+title: AI Supply Chain: AI Applications
+tags: [[AI Supply Chain Node]] [[Demand / End Markets]]
+type: text/vnd.tiddlywiki
+node-id: Apps
+sector: Demand / End Markets
+tickers: MSFT, GOOGL, META, AMZN, AAPL, PLTR, ADBE, CRM
+
+!! Description
+Products and workflows where users experience AI value directly.
+
+!! Example tickers / companies
+MSFT, GOOGL, META, AMZN, AAPL, PLTR, ADBE, CRM
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Evaluation / Safety / Red teaming]] [[AI Supply Chain: Monitoring / Logging / Security]] [[AI Supply Chain: Vector DB / Retrieval / Embeddings]] [[AI Supply Chain: Hyperscalers / Cloud Providers]] [[AI Supply Chain: Government Procurement]]
+
+!! Downstream outputs
+None
+
+!! Related nodes
+[[AI Supply Chain: Hyperscalers / Cloud Providers]] [[AI Supply Chain: Evaluation / Safety / Red teaming]] [[AI Supply Chain: Monitoring / Logging / Security]] [[AI Supply Chain: Government Procurement]] [[AI Supply Chain: Vector DB / Retrieval / Embeddings]]
+
+!! Mermaid label
+`AI Applications — Assistants, coding, search, agents, robotics, ads, defense, drug discovery`

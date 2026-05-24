@@ -1,0 +1,26 @@
+title: AI Supply Chain: Switch ASICs / Switch Systems
+tags: [[AI Supply Chain Node]] [[Compute Cluster]]
+type: text/vnd.tiddlywiki
+node-id: Switches
+sector: Compute Cluster
+tickers: ANET, CSCO, AVGO, NVDA
+
+!! Description
+Compute-infrastructure component used to assemble and operate AI clusters.
+
+!! Example tickers / companies
+ANET, CSCO, AVGO, NVDA
+
+//Tickers are illustrative examples, not investment advice. Some important private/non-US companies may not have simple US tickers.//
+
+!! Upstream inputs
+[[AI Supply Chain: Chip Design]] [[AI Supply Chain: Foundry / Logic Wafer Fab]]
+
+!! Downstream outputs
+[[AI Supply Chain: Networking Fabric]]
+
+!! Related nodes
+[[AI Supply Chain: Chip Design]] [[AI Supply Chain: Foundry / Logic Wafer Fab]] [[AI Supply Chain: Networking Fabric]]
+
+!! Mermaid label
+`Switch ASICs / Switch Systems`
